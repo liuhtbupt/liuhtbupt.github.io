@@ -19,7 +19,7 @@ Education
 ======
 - **2023 - Present**  
   Beijing University of Posts and Telecommunications, Ph.D. Candidate in Information and Communication Engineering (Current)  
-  *Recommended for Graduate Studies（推免）and admitted to the Master's and Ph.D. program through direct entry （硕博连读）.*  
+  *Recommended for Graduate Studies（推免）and admitted to the Master's and Ph.D. degree through direct entry (硕博连读).*  
   Supervisor（Master）: Prof. Zhiyong Feng [(冯志勇教授)](https://sice.bupt.edu.cn/info/1010/1648.htm)<br>
   Supervisor（Ph.D.）: Prof. Zhiqing Wei [(尉志青教授)](https://teacher.bupt.edu.cn/weizhiqing/zh_CN/index.htm)
 
@@ -40,14 +40,24 @@ Academic Service
 
 Papers
 ======
-1. Wei, Zhiqing*, **Liu, Haotian***, Yang, Xinyi, Jiang, Wangjun, Wu, Huici, Li, Xingwang, Feng, Zhiyong. Carrier Aggregation Enabled Integrated Sensing and Communication Signal Design and Processing. IEEE Transactions on Vehicular Technology (TVT), March 2024, [Quick URL](https://ieeexplore.ieee.org/document/10285442)
-2. **Liu, Haotian**, Wei, Zhiqing*, Li, Fengyun, Lin, Yuewei, Qu, Hanyang, Wu, Huici, Feng, Zhiyong. Integrated Sensing and Communication Signal Processing Based On Compressed Sensing Over Unlicensed Spectrum Bands. IEEE Transactions on Cognitive Communications and Networking (TCCN), October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10505886)
-3. Wei, Zhiqing, Li, Fengyun*, **Liu, Haotian**, Chen, Xu, Wu, Huici, Han, Kaifeng, Feng, Zhiyong. Multiple Reference Signals Collaborative Sensing for Integrated Sensing and Communication System Towards 5G-A and 6G.  IEEE Transactions on Vehicular Technology (TVT), October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10561589)
-4. Wei, Zhiqing*, **Liu, Haotian***, Feng, Zhiyong, Wu, Huici, Liu, Fan, Zhang, Qixun, Du, Yucong. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. IEEE Internet of Things Magazine (IoTM), November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082)
-5. Wei, Zhiqing*, **Liu, Haotian***, Li, Hujun, Jiang, Wangjun, Feng, Zhiyong, Wu, Huici, Zhang, Ping. Integrated Sensing and Communication Enabled Cooperative Passive Sensing Using Mobile Communication System. IEEE Transactions on Mobile Computing (TMC), December 2024, [Quick URL](https://ieeexplore.ieee.org/document/10787076)
+1. **Liu, Haotian**, Wei, Zhiqing*, Li, Fengyun, Lin, Yuewei, Qu, Hanyang, Wu, Huici, Feng, Zhiyong. Integrated Sensing and Communication Signal Processing Based On Compressed Sensing Over Unlicensed Spectrum Bands. IEEE Transactions on Cognitive Communications and Networking (TCCN), October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10505886)
+2. Wei, Zhiqing*, **Liu, Haotian***, Yang, Xinyi, Jiang, Wangjun, Wu, Huici, Li, Xingwang, Feng, Zhiyong. Carrier Aggregation Enabled Integrated Sensing and Communication Signal Design and Processing. IEEE Transactions on Vehicular Technology (TVT), March 2024, [Quick URL](https://ieeexplore.ieee.org/document/10285442)
+3. Wei, Zhiqing*, **Liu, Haotian***, Feng, Zhiyong, Wu, Huici, Liu, Fan, Zhang, Qixun, Du, Yucong. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. IEEE Internet of Things Magazine (IoTM), November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082)
+4. Wei, Zhiqing*, **Liu, Haotian***, Li, Hujun, Jiang, Wangjun, Feng, Zhiyong, Wu, Huici, Zhang, Ping. Integrated Sensing and Communication Enabled Cooperative Passive Sensing Using Mobile Communication System. IEEE Transactions on Mobile Computing (TMC), December 2024, [Quick URL](https://ieeexplore.ieee.org/document/10787076)
+5. Wei, Zhiqing, Li, Fengyun*, **Liu, Haotian**, Chen, Xu, Wu, Huici, Han, Kaifeng, Feng, Zhiyong. Multiple Reference Signals Collaborative Sensing for Integrated Sensing and Communication System Towards 5G-A and 6G.  IEEE Transactions on Vehicular Technology (TVT), October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10561589)
 6. Niu, Yangyang, Wei, Zhiqing, Song, Zhiqun, Feng, Zhiyong, Wu, Huici, Ma, Dingyou, **Liu, Haotian**, Zhang, Jinbo. Energy-Efficient Interference Cancellation for Coordinated Multi-Point ISAC Systems. IEEE Transactions on Green Communications and Networking (TGCN), February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10891455)
 
 **Continuing ...**
+
+---
+
+Patents
+======
+1. Wei Zhiqing, Feng Zhiyong, **Liu Haotian**, Zhang Ping, Song Zaodi. Signal processing methods, devices, storage media for network equipment and computer program products, May 2024, China, CN202410608339.3
+2. Feng Zhiyong, Wei Zhiqing, **Liu Haotian**, Zhang Ping, Han Kaifeng, Jiang Wangjun. Multipoint cooperative passive sensing method, device, receiving node and medium, May 2024, China, CN202410593729.8
+3. Wei Zhiqing, Song Zhiqun, Feng Zhiyong, **Liu Haotian**, Zhang Ping, Wang Xiyang, Zhang Jinbo, Pang Yashan, Zhang Tingdong, Liu Lizhe, Wang Bin. An object perception method, device, sensing device, program product and medium, January 2025, China, 202411954508.5
+4. Wei Zhiqing, Feng Zhiyong, Li Fengyun, Zhang Ping, **Liu Haotian**. A terminal measuring method, device, network device and storage medium, April 2024, China, CN202410400246.1
+5. Wei Zhiqing, Song Zhiqun, Feng Zhiyong, Zan Jiaqi, Zhang Ping, **Liu Haotian**, Liu Lizhe, Wang Bin, Zhang Jinbo, Pang Yashan, Zhang Yandong. Information processing methods, devices, equipment, storage media and computer program products, January 2025, China, 202411924007.2
 
 ---
 
