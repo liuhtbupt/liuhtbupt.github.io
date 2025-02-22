@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Haotian Liu, [IEEE Graduate Student Member], [IEEE ComSoc Member], [Chinese Institute of Electronics Student Member], [Chinese Institute of Communications Student Member] received the B.E. degree in School of Physic and Electronic Information Engineering, Henan Polytechnic University (HPU) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/). He has published 9 papers and 5 patents. He is a peer reviewer for top journals including IEEE Transactions on Communications, IEEE Transactions on Cognitive Communications and Networking, and IEEE Internet of Things. His research interests include integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation and AI.
+Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physic and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/). He has published 9 papers and 5 patents. He is a peer reviewer for top journals including IEEE Transactions on Communications, IEEE Transactions on Cognitive Communications and Networking, and IEEE Internet of Things. His research interests include integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation and AI.
 
 ### 🔗 **[My Chinese CV](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
@@ -36,6 +36,8 @@ Academic Service
 - IEEE Transactions on Cognitive Communications and Networking  
 - IEEE Internet of Things Journal
 
+**Continuing ...**
+
 ---
 
 Papers
@@ -59,6 +61,8 @@ Patents
 4. Wei Zhiqing, Feng Zhiyong, Li Fengyun, Zhang Ping, **Liu Haotian**. A terminal measuring method, device, network device and storage medium, April 2024, China, CN202410400246.1
 5. Wei Zhiqing, Song Zhiqun, Feng Zhiyong, Zan Jiaqi, Zhang Ping, **Liu Haotian**, Liu Lizhe, Wang Bin, Zhang Jinbo, Pang Yashan, Zhang Yandong. Information processing methods, devices, equipment, storage media and computer program products, January 2025, China, 202411924007.2
 
+**Continuing ...**
+
 ---
 
 Research Interests
@@ -68,3 +72,5 @@ Research Interests
 - Compressed Sensing (CS)
 - Carrier Aggregation (CA)
 - AI-Driven Communication Systems
+
+**Continuing ...**
