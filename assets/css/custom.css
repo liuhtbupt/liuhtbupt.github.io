@@ -1,91 +1,113 @@
-/* ==== 已有样式保留 ==== */
-/* 动态渐变标题 */
-.page__title { ... }
+/* ===== 科技蓝主题样式 ===== */
+.cv-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
 
-@keyframes gradientShift { ... }
-
-/* 悬浮卡片效果 */
-.education, .publications, .patents { ... }
-
-/* 3D翻转论文条目 */
-.paper-item { ... }
-
-/* 光效边框 */
-.glow-border { ... }
-
-@keyframes borderGlow { ... }
-
-/* 联系方式图标动效 */
-.contact-link { ... }
-
-/* ==== 新增赛博增强样式 ==== */
-/* 全息容器效果 */
-.glow-container {
+/* 标题特效 */
+.cv-title {
+  font-size: 2.5rem;
+  background: linear-gradient(135deg, #00f3ff 30%, #3d6fff 70%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-align: center;
+  margin-bottom: 2rem;
   position: relative;
-  padding: 20px;
-  background: rgba(0,0,0,0.8);
-  border-radius: 15px;
 }
 
-.glow-container::before {
-  content: '';
+.cv-title::after {
+  content: "";
   position: absolute;
-  top: -2px;
-  left: -2px;
-  right: -2px;
-  bottom: -2px;
-  background: linear-gradient(45deg, #00f3ff, #ff00ff, #00ff87);
-  z-index: -1;
-  border-radius: 15px;
-  animation: cyber-glow 3s linear infinite;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #00f3ff, transparent);
 }
 
-@keyframes cyber-glow {
-  0% { 
-    filter: hue-rotate(0deg) blur(2px);
-    opacity: 0.8;
-  }
-  100% { 
-    filter: hue-rotate(360deg) blur(5px);
-    opacity: 0.3;
-  }
+/* 信息卡片 */
+.cv-card {
+  background: rgba(0, 25, 50, 0.9);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 20px rgba(0, 243, 255, 0.1);
+  transition: transform 0.3s ease;
+  border: 1px solid rgba(0, 243, 255, 0.2);
 }
 
-/* 时间线特效 */
-.cyber-timeline {
+.cv-card:hover {
+  transform: translateY(-5px);
+}
+
+/* 时间线样式 */
+.cv-timeline {
   position: relative;
   padding-left: 30px;
-  border-left: 3px solid #00f3ff;
+  border-left: 2px solid #3d6fff;
 }
 
-.timeline-node {
-  margin: 25px 0;
-  padding: 15px;
-  background: rgba(0, 30, 60, 0.5);
-  border-radius: 8px;
-  transition: transform 0.3s;
+.cv-timeline-item {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 20px;
 }
 
-.timeline-node:hover {
-  transform: translateX(10px);
+.cv-timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -30px;
+  top: 8px;
+  width: 12px;
+  height: 12px;
+  background: #00f3ff;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #00f3ff;
 }
 
-.neon-title {
-  color: #00f3ff;
-  text-shadow: 0 0 10px rgba(0,243,255,0.5);
-}
-
-/* 网格布局增强 */
-.cyber-grid {
+/* 论文专利样式 */
+.cv-publications {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 25px;
-  margin-top: 30px;
+  gap: 1.5rem;
 }
 
-.cyber-panel {
-  background: rgba(0, 0, 0, 0.6);
-  padding: 20px;
-  border-radius: 12px;
-  border: 1px solid #ff00ff;
+.pub-item {
+  padding: 1rem;
+  background: rgba(0, 40, 80, 0.7);
+  border-radius: 8px;
+  border-left: 4px solid #3d6fff;
+}
+
+.pub-title {
+  color: #00f3ff;
+  margin-bottom: 0.5rem;
+}
+
+.pub-meta {
+  color: #8ab4f8;
+  font-size: 0.9em;
+}
+
+/* 标签云 */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.research-tag {
+  background: rgba(0, 243, 255, 0.15);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  border: 1px solid #3d6fff;
+  transition: all 0.3s;
+}
+
+.research-tag:hover {
+  background: rgba(0, 243, 255, 0.3);
+  transform: scale(1.05);
 }
