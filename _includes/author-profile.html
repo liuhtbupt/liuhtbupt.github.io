@@ -30,6 +30,14 @@
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
+      
+      <!-- ！在此插入访问量统计！ -->
+      <li class="author__desktop" style="margin-top: 8px;">
+        <i class="fas fa-fw fa-chart-line icon-pad-right" aria-hidden="true"></i>
+        <span id="busuanzi_value_site_pv" style="color:#2bbc8a; font-weight:500;">0</span>
+        <span>次访问</span>
+      </li>
+      
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
