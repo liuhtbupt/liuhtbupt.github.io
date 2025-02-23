@@ -9,7 +9,7 @@ redirect_from:
 
 Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physic and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/). He has published 9 papers and 5 patents. He is a peer reviewer for top journals including IEEE Transactions on Communications, IEEE Transactions on Cognitive Communications and Networking, and IEEE Internet of Things. His research interests include integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation and AI.
 
-### 🔗 **[My Chinese CV](https://www.scholat.com/haotianliubupt)**  
+### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
 ### 🟢 **Wechat**: +86 15738993901
 
