@@ -58,4 +58,19 @@ Patents
 1. Wei Zhiqing, Feng Zhiyong, **Liu Haotian**, Zhang Ping, Song Zaodi. Signal processing methods, devices, storage media for network equipment and computer program products, May 2024, China, CN202410608339.3
 2. Feng Zhiyong, Wei Zhiqing, **Liu Haotian**, Zhang Ping, Han Kaifeng, Jiang Wangjun. Multipoint cooperative passive sensing method, device, receiving node and medium, May 2024, China, CN202410593729.8
 3. Wei Zhiqing, Song Zhiqun, Feng Zhiyong, **Liu Haotian**, Zhang Ping, Wang Xiyang, Zhang Jinbo, Pang Yashan, Zhang Tingdong, Liu Lizhe, Wang Bin. An object perception method, device, sensing device, program product and medium, January 2025, China, 202411954508.5
-4. Wei Zhiqing, Feng Zhiyong, Li Fengyun, Zhang Ping, **Liu Haotian**. A terminal measuring method, device, 
+4. Wei Zhiqing, Feng Zhiyong, Li Fengyun, Zhang Ping, **Liu Haotian**. A terminal measuring method, device, network device and storage medium, April 2024, China, CN202410400246.1
+5. Wei Zhiqing, Song Zhiqun, Feng Zhiyong, Zan Jiaqi, Zhang Ping, **Liu Haotian**, Liu Lizhe, Wang Bin, Zhang Jinbo, Pang Yashan, Zhang Yandong. Information processing methods, devices, equipment, storage media and computer program products, January 2025, China, 202411924007.2
+
+**Continuing ...**
+
+---
+
+Research Interests
+======
+- Integrated Sensing and Communication (ISAC)
+- Cooperative Sensing
+- Compressed Sensing (CS)
+- Carrier Aggregation (CA)
+- AI-Driven Communication Systems
+
+**Continuing ...** 
