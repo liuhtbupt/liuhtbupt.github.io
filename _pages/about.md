@@ -43,7 +43,7 @@ Academic Service
 
 Representative Papers
 ======
-1. <span style="color: #FF0000;">**Haotian Liu**</span>, Zhiqing Wei*, Jinghui Piao, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication. **IEEE Transactions on Wireless Communications (TWC)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10901856)
+1. <span style="color: blue;">**Haotian Liu**</span>, Zhiqing Wei*, Jinghui Piao, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication. **IEEE Transactions on Wireless Communications (TWC)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10901856)
 2. **Haotian Liu**, Zhiqing Wei*, Fengyun Li, Yuewei Lin, Hanyang Qu, Huici Wu, Zhiyong Feng. Integrated Sensing and Communication Signal Processing Based On Compressed Sensing Over Unlicensed Spectrum Bands. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10505886)
 3. Zhiqing Wei*, **Haotian Liu**\*, Xinyi Yang, Wangjun Jiang, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled Integrated Sensing and Communication Signal Design and Processing. **IEEE Transactions on Vehicular Technology (TVT)**, March 2024, [Quick URL](https://ieeexplore.ieee.org/document/10285442)
 4. Zhiqing Wei*, **Haotian Liu**\*, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082)
