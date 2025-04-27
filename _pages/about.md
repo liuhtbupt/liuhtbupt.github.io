@@ -84,7 +84,7 @@ Research Interests
 
 Recent News
 ======
-1. Since the magazine <<Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives>> publised in November 2024, it has secured a spot among the IOTM Popular Articles for five straight months.
+1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** publised in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for five straight months.</span>
 <p style="text-align: center;">
-  <img src="/assets/image/popular_article_at_IOTM.png" alt="xx" width="600"> 
+  <img src="/assets/image/popular_article_at_IOTM.png" alt="" width="600"> 
 </p>
