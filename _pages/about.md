@@ -42,19 +42,33 @@ Academic Service
 
 ---
 
-Selected Papers (*Corresponding)
+Selected Journal Papers (*Corresponding)
 ======
 1. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Jinghui Piao, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication. **IEEE Transactions on Wireless Communications (TWC)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10901856)
 2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Fengyun Li, Yuewei Lin, Hanyang Qu, Huici Wu, Zhiyong Feng. Integrated Sensing and Communication Signal Processing Based On Compressed Sensing Over Unlicensed Spectrum Bands. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10505886)
 3. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Xinyi Yang, Wangjun Jiang, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled Integrated Sensing and Communication Signal Design and Processing. **IEEE Transactions on Vehicular Technology (TVT)**, March 2024, [Quick URL](https://ieeexplore.ieee.org/document/10285442)
-4. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082) (<span style="color: red;">PS: Popular Article since publication</span>)
-5. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Hujun Li, Wangjun Jiang, Zhiyong Feng, Huici Wu, Ping Zhang. Integrated Sensing and Communication Enabled Cooperative Passive Sensing Using Mobile Communication System. **IEEE Transactions on Mobile Computing (TMC)**, December 2024, [Quick URL](https://ieeexplore.ieee.org/document/10787076)
-6. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Furong Yang, Huici Wu, Kaifeng Han, Zhiyong Feng. Target Localization with Macro and Micro Base Stations Cooperative Sensing. **2024 IEEE Global Communications Conference**, March 2025, [Quick URL](https://ieeexplore.ieee.org/document/10900950)
-7. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Xiyang Wang, Yangyang Niu, Yixin Zhang, Huici Wu, Zhiyong Feng. Multipath Component-Aided Signal Processing for Integrated Sensing and Communication Systems. **2025 IEEE Wireless Communications and Networking Conference**, April 2025, [Quick URL](https://arxiv.org/abs/2501.00297)
-8. Zhiqing Wei, Fengyun Li*, <span style="color: #800080;">**Haotian Liu**</span>, Xu Chen, Huici Wu, Kaifeng Han, Zhiyong Feng. Multiple Reference Signals Collaborative Sensing for Integrated Sensing and Communication System Towards 5G-A and 6G.  **IEEE Transactions on Vehicular Technology (TVT)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10561589)
-9. Yangyang Niu, Zhiqing Wei*, Zhiqun Song, Zhiyong Feng, Huici Wu, Dingyou Ma, <span style="color: #800080;">**Haotian Liu**</span>, Jinbo Zhang. Energy-Efficient Interference Cancellation for Coordinated Multi-Point ISAC Systems. **IEEE Transactions on Green Communications and Networking (TGCN)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10891455)
-10. Furong Yang, Yao Tong, Senhao Zhang, Junjie Zheng, Jia Zhu, <span style="color: #800080;">**Haotian Liu**</span>, Yichao Hu, Cheng Zhang, Zhensheng Chen, Gaojie Chen, Chaoyun Song. Strain-Invariant Stretchable Antennas via Radical Surface Current Re-distributions: Theory, Design and Experiments. **IEEE Transactions on Antennas and Propagation (TAP)**, May 2025, [Quick URL](10.1109/TAP.2025.3564785)
-11. Wenyan Xu, Zhiqing Wei*, Zhiqun Song, Yixin Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Ying Zhou, Xiaoyu Yang, Yashan Pang. Delay Performance Analysis with Short Packets in Intelligent Machine Network. **2025 IEEE 102nd Vehicular Technology Conference**, Feburary 2025, [Quick URL](https://arxiv.org/abs/2502.09313)
+4. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Hujun Li, Wangjun Jiang, Zhiyong Feng, Huici Wu, Ping Zhang. Integrated Sensing and Communication Enabled Cooperative Passive Sensing Using Mobile Communication System. **IEEE Transactions on Mobile Computing (TMC)**, December 2024, [Quick URL](https://ieeexplore.ieee.org/document/10787076)
+5. Zhiqing Wei, Fengyun Li*, <span style="color: #800080;">**Haotian Liu**</span>, Xu Chen, Huici Wu, Kaifeng Han, Zhiyong Feng. Multiple Reference Signals Collaborative Sensing for Integrated Sensing and Communication System Towards 5G-A and 6G.  **IEEE Transactions on Vehicular Technology (TVT)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10561589)
+6. Yangyang Niu, Zhiqing Wei*, Zhiqun Song, Zhiyong Feng, Huici Wu, Dingyou Ma, <span style="color: #800080;">**Haotian Liu**</span>, Jinbo Zhang. Energy-Efficient Interference Cancellation for Coordinated Multi-Point ISAC Systems. **IEEE Transactions on Green Communications and Networking (TGCN)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10891455)
+7. Furong Yang, Yao Tong, Senhao Zhang, Junjie Zheng, Jia Zhu, <span style="color: #800080;">**Haotian Liu**</span>, Yichao Hu, Cheng Zhang, Zhensheng Chen, Gaojie Chen, Chaoyun Song. Strain-Invariant Stretchable Antennas via Radical Surface Current Re-distributions: Theory, Design and Experiments. **IEEE Transactions on Antennas and Propagation (TAP)**, May 2025, [Quick URL](10.1109/TAP.2025.3564785)
+
+**Continuing ...**
+
+---
+
+Selected Conference Papers (*Corresponding)
+======
+1. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Furong Yang, Huici Wu, Kaifeng Han, Zhiyong Feng. Target Localization with Macro and Micro Base Stations Cooperative Sensing. **2024 IEEE Global Communications Conference**, March 2025, [Quick URL](https://ieeexplore.ieee.org/document/10900950)
+2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Xiyang Wang, Yangyang Niu, Yixin Zhang, Huici Wu, Zhiyong Feng. Multipath Component-Aided Signal Processing for Integrated Sensing and Communication Systems. **2025 IEEE Wireless Communications and Networking Conference**, April 2025, [Quick URL](https://arxiv.org/abs/2501.00297)
+3. Wenyan Xu, Zhiqing Wei*, Zhiqun Song, Yixin Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Ying Zhou, Xiaoyu Yang, Yashan Pang. Delay Performance Analysis with Short Packets in Intelligent Machine Network. **2025 IEEE 102nd Vehicular Technology Conference**, Feburary 2025, [Quick URL](https://arxiv.org/abs/2502.09313)
+
+**Continuing ...**
+
+---
+
+Selected Magazine Papers (*Corresponding)
+======
+1. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082) (<span style="color: red;">PS: Popular Article since publication</span>)
 
 **Continuing ...**
 
