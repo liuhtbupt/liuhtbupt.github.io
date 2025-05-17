@@ -51,6 +51,7 @@ Selected Journal Papers (*Corresponding)
 5. Zhiqing Wei, Fengyun Li*, <span style="color: #800080;">**Haotian Liu**</span>, Xu Chen, Huici Wu, Kaifeng Han, Zhiyong Feng. Multiple Reference Signals Collaborative Sensing for Integrated Sensing and Communication System Towards 5G-A and 6G.  **IEEE Transactions on Vehicular Technology (TVT)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10561589)
 6. Yangyang Niu, Zhiqing Wei*, Zhiqun Song, Zhiyong Feng, Huici Wu, Dingyou Ma, <span style="color: #800080;">**Haotian Liu**</span>, Jinbo Zhang. Energy-Efficient Interference Cancellation for Coordinated Multi-Point ISAC Systems. **IEEE Transactions on Green Communications and Networking (TGCN)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10891455)
 7. Furong Yang, Yao Tong, Senhao Zhang, Junjie Zheng, Jia Zhu, <span style="color: #800080;">**Haotian Liu**</span>, Yichao Hu, Cheng Zhang, Zhensheng Chen, Gaojie Chen, Chaoyun Song. Strain-Invariant Stretchable Antennas via Radical Surface Current Re-distributions: Theory, Design and Experiments. **IEEE Transactions on Antennas and Propagation (TAP)**, May 2025, [Quick URL](10.1109/TAP.2025.3564785)
+8. Yiheng Li, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng. Uplink Multi-RSU Cooperative Sensing Strategy for Integrated Sensing and Communication System. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, May 2025, [Quick URL](10.1109/TCCN.2025.3570449)
 
 **Continuing ...**
 
