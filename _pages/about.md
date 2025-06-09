@@ -30,13 +30,14 @@ Education
 
 ---
 
-Academic Service
+Academic Services
 ======
-**Peer Reviewer:**  
+**Reviewer for Journals:**  
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Communications  
 - IEEE Transactions on Cognitive Communications and Networking  
 - IEEE Internet of Things Journal
+- Discover Applied Sciences
 
 **Continuing ...**
 
