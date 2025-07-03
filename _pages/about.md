@@ -37,7 +37,8 @@ Academic Services
 - IEEE Transactions on Communications  
 - IEEE Transactions on Cognitive Communications and Networking  
 - IEEE Internet of Things Journal
-- Discover Applied Sciences
+- Spring Nature: Discover Applied Sciences
+- Spring Nature: Wireless Networks
 
 **Continuing ...**
 
