@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physic and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunication (BUPT)](https://www.bupt.edu.cn/). 
-He has published 12 papers in leading international journals, such as IEEE TWC, TAP, TMC, TCCN, and TVT, and has filed for 5 patents. He serves as a peer reviewer for the high-impact journals, including IEEE TWC, TCOM, TCCN, and IoTJ. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
+He has published 12 papers in leading international journals, such as IEEE TWC, TAP, TMC, TCCN, and TVT, and has filed for 6 patents. He serves as a peer reviewer for the high-impact journals, including IEEE TWC, TCOM, TCCN, and IoTJ. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
 
 ### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
@@ -79,11 +79,12 @@ Selected Magazine Papers (*Corresponding)
 
 Patents
 ======
-1. Zhiqing Wei, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Zaodi Song. Signal processing methods, devices, storage media for network equipment and computer program products, May 2024, China, CN202410608339.3
-2. Zhiyong Feng, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Kaifeng Han, Wangjun Jiang. Multipoint cooperative passive sensing method, device, receiving node and medium, May 2024, China, CN202410593729.8
-3. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Xiyang Wang, Jinbo Zhang, Yashan Pang, Tingdong Zhang, Lizhe Liu, Bin Wang. An object perception method, device, sensing device, program product and medium, January 2025, China, 202411954508.5
-4. Zhiqing Wei, Zhiyong Feng, Fengyun Li, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>. A terminal measuring method, device, network device and storage medium, April 2024, China, CN202410400246.1
-5. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, Jiaqi Zan, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Lizhe Liu, Bin Wang, Jinbo Zhang, Yashan Pang, Yandong Zhang. Information processing methods, devices, equipment, storage media and computer program products, January 2025, China, 202411924007.2
+1. Zhiyong Feng, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Luyang Sun, Ruizhong Xu. Sensing signal processing methods, devices, equipment, storage media and program products, July 2025, China, 202510881921.1
+2. Zhiqing Wei, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Zaodi Song. Signal processing methods, devices, storage media for network equipment and computer program products, May 2024, China, CN202410608339.3
+3. Zhiyong Feng, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Kaifeng Han, Wangjun Jiang. Multipoint cooperative passive sensing method, device, receiving node and medium, May 2024, China, CN202410593729.8
+4. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Xiyang Wang, Jinbo Zhang, Yashan Pang, Tingdong Zhang, Lizhe Liu, Bin Wang. An object perception method, device, sensing device, program product and medium, January 2025, China, 202411954508.5
+5. Zhiqing Wei, Zhiyong Feng, Fengyun Li, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>. A terminal measuring method, device, network device and storage medium, April 2024, China, CN202410400246.1
+6. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, Jiaqi Zan, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Lizhe Liu, Bin Wang, Jinbo Zhang, Yashan Pang, Yandong Zhang. Information processing methods, devices, equipment, storage media and computer program products, January 2025, China, 202411924007.2
 
 **Continuing ...**
 
