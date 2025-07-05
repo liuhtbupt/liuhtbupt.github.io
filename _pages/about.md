@@ -21,7 +21,7 @@ Education
 - **2023 - Present**  
   Beijing University of Posts and Telecommunications, Ph.D. Candidate in Information and Communication Engineering (Current)  
   *Recommended for Graduate Studies（推免）and admitted to the Master's and Ph.D. degree through direct entry (硕博连读).*  
-  Supervisor（Master）: Prof. [Zhiyong Feng](https://sice.bupt.edu.cn/info/1010/1648.htm)<br>
+  Supervisor（M.S.）: Prof. [Zhiyong Feng](https://sice.bupt.edu.cn/info/1010/1648.htm)<br>
   Supervisor（Ph.D.）: Prof. [Zhiqing Wei](https://teacher.bupt.edu.cn/weizhiqing/zh_CN/index.htm)
 
 - **2019 - 2023**  
