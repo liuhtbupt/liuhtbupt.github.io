@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physics and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). 
-He has published 12 papers in leading international journals, such as IEEE TWC, TAP, TMC, TCCN, and TVT, and has granted 6 patents. He serves as a Workshop Co-Chair at the 2025 IEEE NCIC. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TCOM, TCCN, and IoTJ. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
+He has published 12 papers in leading international journals, such as IEEE TWC, TAP, TMC, TCCN, and TVT, and has granted 6 patents. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TCOM, TCCN, and IoTJ. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
 
 ### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
@@ -37,6 +37,7 @@ Academic Services
 - IEEE Transactions on Communications  
 - IEEE Transactions on Cognitive Communications and Networking  
 - IEEE Internet of Things Journal
+- IEEE Wireless Communication Letter
 - Spring Nature: Discover Applied Sciences
 - Spring Nature: Wireless Networks
 
@@ -105,7 +106,7 @@ Research Interests
 
 Recent News
 ======
-1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** publised in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for nine straight months.</span>
+1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** publised in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for eleven straight months.</span>
 <p style="text-align: center;">
   <img src="/assets/image/popular_article_at_IOTM.png" alt="" width="600"> 
 </p>
