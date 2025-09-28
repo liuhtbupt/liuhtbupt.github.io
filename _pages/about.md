@@ -34,6 +34,7 @@ Academic Services
 ======
 **Reviewer for Journals:**  
 - IEEE Transactions on Wireless Communications
+- IEEE Transactions on Mobile Computing
 - IEEE Transactions on Communications  
 - IEEE Transactions on Cognitive Communications and Networking  
 - IEEE Internet of Things Journal
