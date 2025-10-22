@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physics and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). 
-He has published 14 papers in leading international journals, such as IEEE TWC, TAP, TMC, TCCN, and TVT, and has granted 6 patents. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TMC, TCOM, TCCN, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
+He has published 14 papers in leading international journals, such as IEEE TWC, TAP, TMC, TCCN, and TVT, and has granted 6 patents. He is the recipient of The 2025 National Scholarship Award (Second-year Ph.D.), The (Outstanding Contribution) Best Organization Award of NCIC 2025. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TMC, TCOM, TCCN, WCL, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
 
 ### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
@@ -111,4 +111,9 @@ Recent News
 1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** publised in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for eleven straight months.</span>
 <p style="text-align: center;">
   <img src="/assets/image/popular_article_at_IOTM.png" alt="" width="600"> 
+</p>
+
+2. In the **second year** of Ph.D. studies, he won the **2025 National Doctoral Scholarship** (a total of 18 places per year in the whole school)
+<p style="text-align: center;">
+  <img src="/assets/image/national scholarship.png" alt="" width="600"> 
 </p>
