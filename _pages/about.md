@@ -115,5 +115,5 @@ Recent News
 
 2. In the **second year** of Ph.D. studies, he won the **2025 National Doctoral Scholarship** (a total of 18 places per year in the whole school)
 <p style="text-align: center;">
-  <img src="/assets/image/national scholarship.png" alt="" width="600"> 
+  <img src="/assets/image/national scholarship.jpg" alt="" width="600"> 
 </p>
