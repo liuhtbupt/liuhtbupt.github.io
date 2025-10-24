@@ -111,7 +111,7 @@ Recent News
 <p style="text-align: center;">
   <img src="/assets/image/popular_article_at_IOTM.png" alt="" width="600"> 
 </p>
-2. (2025.09.28) In the **second year** of Ph.D. studies, he won the **2025 National Doctoral Scholarship** (a total of 18 places per year in the whole school)
+2. (2025.09.28) In the **second year** of Ph.D. studies, he won the <span style="color: red;">2025 National Doctoral Scholarship</span> (<span style="color: red;">a total of 18 places per year in the whole school</span>)
 <p style="text-align: center;">
   <img src="/assets/image/national scholarship.jpg" alt="" width="600"> 
 </p>
