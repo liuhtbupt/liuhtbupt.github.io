@@ -65,7 +65,7 @@ Selected Journal Papers (*Corresponding)
 Selected Conference Papers (*Corresponding)
 ======
 1. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Furong Yang, Huici Wu, Kaifeng Han, Zhiyong Feng. Target Localization with Macro and Micro Base Stations Cooperative Sensing. **2024 IEEE Global Communications Conference**, March 2025, [Quick URL](https://ieeexplore.ieee.org/document/10900950)
-2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Xiyang Wang, Yangyang Niu, Yixin Zhang, Huici Wu, Zhiyong Feng. Multipath Component-Aided Signal Processing for Integrated Sensing and Communication Systems. **2025 IEEE Wireless Communications and Networking Conference**, April 2025, [Quick URL](https://arxiv.org/abs/2501.00297)
+2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Xiyang Wang, Yangyang Niu, Yixin Zhang, Huici Wu, Zhiyong Feng. Multipath Component-Aided Signal Processing for Integrated Sensing and Communication Systems. **2025 IEEE Wireless Communications and Networking Conference**, May 2025, [Quick URL](https://ieeexplore.ieee.org/document/10978578)
 3. Wenyan Xu, Zhiqing Wei*, Zhiqun Song, Yixin Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Ying Zhou, Xiaoyu Yang, Yashan Pang. Delay Performance Analysis with Short Packets in Intelligent Machine Network. **2025 IEEE 102nd Vehicular Technology Conference**, Feburary 2025, [Quick URL](https://arxiv.org/abs/2502.09313)
 
 **Continuing ...**
