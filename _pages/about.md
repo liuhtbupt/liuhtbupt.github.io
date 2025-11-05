@@ -98,7 +98,7 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 
 ---
 
-Patents
+七. Patents
 ======
 1. Zhiyong Feng, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Luyang Sun, Ruizhong Xu. Sensing signal processing methods, devices, equipment, storage media and program products, July 2025, China, CN202510881921.1, [Quick URL](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)
 2. Zhiqing Wei, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Zaodi Song. Signal processing methods, devices, storage media for network equipment and computer program products, May 2024, China, CN202410608339.3, [Quick URL](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0a8rFtZVV-7g5wgoqqAZAeTlpSYOf5EGjx9ENSj0eBZqsxkVNP29ovx76_iRlGvYhxz2GdLr-93-WzSeJ1zKc_1In76Gx-E1Q9fs5RshiBEZZwkBdA_OfXXKa9tKYDoyYL96q6UPkMwtd7h0w0_M6mU&uniplatform=NZKPT)
@@ -111,7 +111,7 @@ Patents
 
 ---
 
-七. Research Interests
+八. Research Interests
 ======
 - Integrated Sensing and Communication (ISAC)
 - Cooperative Sensing
@@ -123,7 +123,7 @@ Patents
 
 ---
 
-八. Recent News
+九. Recent News
 ======
 1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** publised in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for eleven straight months.</span>
 <p style="text-align: center;">
