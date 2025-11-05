@@ -51,7 +51,7 @@ Academic Services
 Awards and Honors
 ======
 1.  The <span style="color: #800080;">**Outstanding Contribution Award (Best Organization Award)**\*</span> of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
-2.  The 2025 <span style="color: #800080;">**National Scholarship for Doctoral Students**\*</span> (Second year in Ph.D. and A total of 18 places per year in the whole school) (Sep. 2025)
+2.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**\*</span> (Second year in Ph.D. and A total of 18 places per year in the whole school) (Sep. 2025)
 
 **Continuing ...**
 
