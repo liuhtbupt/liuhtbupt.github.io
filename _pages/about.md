@@ -56,7 +56,10 @@ Academic Services
 Awards and Honors
 ======
 1.  The <span style="color: #800080;">**Outstanding Contribution Award (Best Organization Award)**</span> of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
-2.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D. and A total of 18 places per year in the whole school) (Sep. 2025)
+2.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D.) (Sep. 2025)
+3.  The <span style="color: #800080;">**Outstanding undergraduate graduate of Henan Province**</span> (May 2023)
+4.  The <span style="color: #800080;">**2021 National Bachelor's Scholarship**</span> (Dec. 2021)
+5.  The The <span style="color: #800080;">** 2020 Three Good Student in Henan Province**</span> (Sep. 2021)
 
 **Continuing ...**
 
