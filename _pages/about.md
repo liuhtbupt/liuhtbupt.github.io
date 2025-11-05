@@ -39,9 +39,19 @@ Academic Services
 - IEEE Transactions on Cognitive Communications and Networking  
 - IEEE Internet of Things Journal
 - IEEE Wireless Communications Letters
+- IEEE Transactions on Consumer Electronics
 - NPJ Wireless Technology
 - Spring Nature: Discover Applied Sciences
 - Spring Nature: Wireless Networks
+
+**Continuing ...**
+
+---
+
+Awards and Honors
+======
+1.  The Outstanding Contribution Award (Best Organization Award) of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
+2.  The 2025 National Scholarship for Doctoral Students (Second year in Ph.D. and A total of 18 places per year in the whole school) (Sep. 2025)
 
 **Continuing ...**
 
