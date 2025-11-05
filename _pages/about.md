@@ -49,6 +49,8 @@ Academic Services
 **Chair for Workshopa:** 
 - The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop
 
+**Continuing ...**
+
 ---
 
 Awards and Honors
