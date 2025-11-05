@@ -59,7 +59,7 @@ Awards and Honors
 2.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D.) (Sep. 2025)
 3.  The <span style="color: #800080;">**Outstanding undergraduate graduate of Henan Province**</span> (May 2023)
 4.  The <span style="color: #800080;">**2021 National Bachelor's Scholarship**</span> (Dec. 2021)
-5.  The The <span style="color: #800080;">** 2020 Three Good Student in Henan Province**</span> (Sep. 2021)
+5.  The <span style="color: #800080;">**2020 Three Good Student in Henan Province**</span> (Sep. 2021)
 
 **Continuing ...**
 
