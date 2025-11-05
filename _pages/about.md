@@ -46,7 +46,7 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 
 **Continuing ...**
 
-**Chair for Workshopa:** 
+**Chair for Workshops:** 
 - The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop
 
 **Continuing ...**
