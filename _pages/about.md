@@ -16,7 +16,7 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 
 ---
 
-Education
+一. Education
 ======
 - **2023 - Present**  
   Beijing University of Posts and Telecommunications, Ph.D. Candidate in Information and Communication Engineering (Current)  
@@ -30,7 +30,7 @@ Education
 
 ---
 
-Academic Services
+二. Academic Services
 ======
 **Reviewer for Journals:**  
 - IEEE Transactions on Wireless Communications
@@ -53,7 +53,7 @@ Academic Services
 
 ---
 
-Awards and Honors
+三. Awards and Honors
 ======
 1.  The <span style="color: #800080;">**Outstanding Contribution Award (Best Organization Award)**</span> of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
 2.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D.) (Sep. 2025)
@@ -65,7 +65,7 @@ Awards and Honors
 
 ---
 
-Selected Journal Papers (*Corresponding)
+四. Selected Journal Papers (*Corresponding)
 ======
 1. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Jinghui Piao, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication. **IEEE Transactions on Wireless Communications (TWC)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10901856)
 2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Fengyun Li, Yuewei Lin, Hanyang Qu, Huici Wu, Zhiyong Feng. Integrated Sensing and Communication Signal Processing Based On Compressed Sensing Over Unlicensed Spectrum Bands. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10505886)
@@ -80,7 +80,7 @@ Selected Journal Papers (*Corresponding)
 
 ---
 
-Selected Conference Papers (*Corresponding)
+五. Selected Conference Papers (*Corresponding)
 ======
 1. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Furong Yang, Huici Wu, Kaifeng Han, Zhiyong Feng. Target Localization with Macro and Micro Base Stations Cooperative Sensing. **2024 IEEE Global Communications Conference**, March 2025, [Quick URL](https://ieeexplore.ieee.org/document/10900950)
 2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Xiyang Wang, Yangyang Niu, Yixin Zhang, Huici Wu, Zhiyong Feng. Multipath Component-Aided Signal Processing for Integrated Sensing and Communication Systems. **2025 IEEE Wireless Communications and Networking Conference**, May 2025, [Quick URL](https://ieeexplore.ieee.org/document/10978578)
@@ -90,7 +90,7 @@ Selected Conference Papers (*Corresponding)
 
 ---
 
-Selected Magazine Papers (*Corresponding)
+六. Selected Magazine Papers (*Corresponding)
 ======
 1. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082) (<span style="color: red;">PS: Popular Article since publication</span>)
 
@@ -111,7 +111,7 @@ Patents
 
 ---
 
-Research Interests
+七. Research Interests
 ======
 - Integrated Sensing and Communication (ISAC)
 - Cooperative Sensing
@@ -123,7 +123,7 @@ Research Interests
 
 ---
 
-Recent News
+八. Recent News
 ======
 1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** publised in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for eleven straight months.</span>
 <p style="text-align: center;">
