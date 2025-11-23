@@ -36,11 +36,13 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Communications  
-- IEEE Transactions on Cognitive Communications and Networking  
+- IEEE Transactions on Cognitive Communications and Networking
+- IEEE Transactions on Vehicular Technology
 - IEEE Internet of Things Journal
 - IEEE Wireless Communications Letters
 - IEEE Transactions on Consumer Electronics
 - NPJ Wireless Technology
+- IEEE Transactions on Consumer Electronics
 - Spring Nature: Discover Applied Sciences
 - Spring Nature: Wireless Networks
 
@@ -55,11 +57,12 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 
 三. Awards and Honors
 ======
-1.  The <span style="color: #800080;">**Outstanding Contribution Award (Best Organization Award)**</span> of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
-2.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D.) (Sep. 2025)
-3.  The <span style="color: #800080;">**Outstanding undergraduate graduate of Henan Province**</span> (May 2023)
-4.  The <span style="color: #800080;">**2021 National Bachelor's Scholarship**</span> (Dec. 2021)
-5.  The <span style="color: #800080;">**2020 Three Good Student in Henan Province**</span> (Sep. 2021)
+1.  The <span style="color: #800080;">**2025 Outstanding Graduate Award**</span> of Beijing University of Posts and Telecommunications.
+2.  The <span style="color: #800080;">**Outstanding Contribution Award (Best Organization Award)**</span> of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
+3.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D.) (Sep. 2025)
+4.  The <span style="color: #800080;">**Outstanding undergraduate graduate of Henan Province**</span> (May 2023)
+5.  The <span style="color: #800080;">**2021 National Bachelor's Scholarship**</span> (Dec. 2021)
+6.  The <span style="color: #800080;">**2020 Three Good Student in Henan Province**</span> (Sep. 2021)
 
 **Continuing ...**
 
@@ -67,14 +70,15 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 
 四. Selected Journal Papers (*Corresponding)
 ======
-1. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Jinghui Piao, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication. **IEEE Transactions on Wireless Communications (TWC)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10901856)
-2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Fengyun Li, Yuewei Lin, Hanyang Qu, Huici Wu, Zhiyong Feng. Integrated Sensing and Communication Signal Processing Based On Compressed Sensing Over Unlicensed Spectrum Bands. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10505886)
-3. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Xinyi Yang, Wangjun Jiang, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled Integrated Sensing and Communication Signal Design and Processing. **IEEE Transactions on Vehicular Technology (TVT)**, March 2024, [Quick URL](https://ieeexplore.ieee.org/document/10285442)
-4. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Hujun Li, Wangjun Jiang, Zhiyong Feng, Huici Wu, Ping Zhang. Integrated Sensing and Communication Enabled Cooperative Passive Sensing Using Mobile Communication System. **IEEE Transactions on Mobile Computing (TMC)**, December 2024, [Quick URL](https://ieeexplore.ieee.org/document/10787076)
-5. Yiheng Li, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng. Uplink Multi-RSU Cooperative Sensing Strategy for Integrated Sensing and Communication System. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, May 2025, [Quick URL](https://ieeexplore.ieee.org/document/11005389)
-6. Zhiqing Wei, Fengyun Li*, <span style="color: #800080;">**Haotian Liu**</span>, Xu Chen, Huici Wu, Kaifeng Han, Zhiyong Feng. Multiple Reference Signals Collaborative Sensing for Integrated Sensing and Communication System Towards 5G-A and 6G.  **IEEE Transactions on Vehicular Technology (TVT)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10561589)
-7. Yangyang Niu, Zhiqing Wei*, Zhiqun Song, Zhiyong Feng, Huici Wu, Dingyou Ma, <span style="color: #800080;">**Haotian Liu**</span>, Jinbo Zhang. Energy-Efficient Interference Cancellation for Coordinated Multi-Point ISAC Systems. **IEEE Transactions on Green Communications and Networking (TGCN)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10891455)
-8. Furong Yang, Yao Tong, Senhao Zhang, Junjie Zheng, Jia Zhu, <span style="color: #800080;">**Haotian Liu**</span>, Yichao Hu, Cheng Zhang, Zhensheng Chen, Gaojie Chen, Chaoyun Song. Strain-Invariant Stretchable Antennas via Radical Surface Current Re-distributions: Theory, Design and Experiments. **IEEE Transactions on Antennas and Propagation (TAP)**, May 2025, [Quick URL](https://ieeexplore.ieee.org/document/10982441)
+1. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Xiyang Wang, Huici Wu, Fan Liu, Xingwang Li, Zhiyong Feng. Multipath Component-Enhanced Signal Processing for Integrated Sensing and Communication Systems. **IEEE Transactions on Communications (TCOM)**, November 2025, [Quick URL](https://ieeexplore.ieee.org/document/11251344)
+2. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Jinghui Piao, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication. **IEEE Transactions on Wireless Communications (TWC)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10901856)
+3. <span style="color: #800080;">**Haotian Liu**</span>, Zhiqing Wei*, Fengyun Li, Yuewei Lin, Hanyang Qu, Huici Wu, Zhiyong Feng. Integrated Sensing and Communication Signal Processing Based On Compressed Sensing Over Unlicensed Spectrum Bands. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10505886)
+4. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Xinyi Yang, Wangjun Jiang, Huici Wu, Xingwang Li, Zhiyong Feng. Carrier Aggregation Enabled Integrated Sensing and Communication Signal Design and Processing. **IEEE Transactions on Vehicular Technology (TVT)**, March 2024, [Quick URL](https://ieeexplore.ieee.org/document/10285442)
+5. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Hujun Li, Wangjun Jiang, Zhiyong Feng, Huici Wu, Ping Zhang. Integrated Sensing and Communication Enabled Cooperative Passive Sensing Using Mobile Communication System. **IEEE Transactions on Mobile Computing (TMC)**, December 2024, [Quick URL](https://ieeexplore.ieee.org/document/10787076)
+6. Yiheng Li, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng. Uplink Multi-RSU Cooperative Sensing Strategy for Integrated Sensing and Communication System. **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, May 2025, [Quick URL](https://ieeexplore.ieee.org/document/11005389)
+7. Zhiqing Wei, Fengyun Li*, <span style="color: #800080;">**Haotian Liu**</span>, Xu Chen, Huici Wu, Kaifeng Han, Zhiyong Feng. Multiple Reference Signals Collaborative Sensing for Integrated Sensing and Communication System Towards 5G-A and 6G.  **IEEE Transactions on Vehicular Technology (TVT)**, October 2024, [Quick URL](https://ieeexplore.ieee.org/document/10561589)
+8. Yangyang Niu, Zhiqing Wei*, Zhiqun Song, Zhiyong Feng, Huici Wu, Dingyou Ma, <span style="color: #800080;">**Haotian Liu**</span>, Jinbo Zhang. Energy-Efficient Interference Cancellation for Coordinated Multi-Point ISAC Systems. **IEEE Transactions on Green Communications and Networking (TGCN)**, February 2025, [Quick URL](https://ieeexplore.ieee.org/document/10891455)
+9. Furong Yang, Yao Tong, Senhao Zhang, Junjie Zheng, Jia Zhu, <span style="color: #800080;">**Haotian Liu**</span>, Yichao Hu, Cheng Zhang, Zhensheng Chen, Gaojie Chen, Chaoyun Song. Strain-Invariant Stretchable Antennas via Radical Surface Current Re-distributions: Theory, Design and Experiments. **IEEE Transactions on Antennas and Propagation (TAP)**, May 2025, [Quick URL](https://ieeexplore.ieee.org/document/10982441)
 
 **Continuing ...**
 
