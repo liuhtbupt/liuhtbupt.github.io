@@ -42,7 +42,6 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 - IEEE Wireless Communications Letters
 - IEEE Transactions on Consumer Electronics
 - NPJ Wireless Technology
-- IEEE Transactions on Consumer Electronics
 - Spring Nature: Discover Applied Sciences
 - Spring Nature: Wireless Networks
 
