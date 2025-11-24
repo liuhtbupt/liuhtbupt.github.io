@@ -56,7 +56,7 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 
 三. Awards and Honors
 ======
-1.  The <span style="color: #800080;">**2025 Outstanding Graduate Award**</span> of Beijing University of Posts and Telecommunications.
+1.  The <span style="color: #800080;">**2025 Outstanding Graduate Student Award**</span> of Beijing University of Posts and Telecommunications.
 2.  The <span style="color: #800080;">**Outstanding Contribution Award (Best Organization Award)**</span> of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
 3.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D.) (Sep. 2025)
 4.  The <span style="color: #800080;">**Outstanding undergraduate graduate of Henan Province**</span> (May 2023)
