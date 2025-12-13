@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physics and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). 
-He has published 14 papers in leading international journals, such as IEEE TWC, TAP, TMC, TCCN, and TVT, and has granted 6 patents. He is the recipient of The 2025 National Scholarship Award (Second-year Ph.D.), The (Outstanding Contribution) Best Organization Award of NCIC 2025. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TMC, TCOM, TCCN, WCL, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
+He has published 15 papers in leading international journals, such as IEEE TWC, TCOM, TMC, TCCN, and TVT, and has granted 7 patents. He is the recipient of The 2025 National Scholarship Award (Second-year Ph.D.), The (Outstanding Contribution) Best Organization Award of NCIC 2025. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TMC, TCOM, TCCN, TVT, WCL, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
 
 ### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
@@ -56,7 +56,7 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 
 三. Awards and Honors
 ======
-1.  The <span style="color: #800080;">**2025 Outstanding Graduate Student Award**</span> of Beijing University of Posts and Telecommunications.
+1.  The <span style="color: #800080;">**2025 Outstanding Graduate Student Award**</span> of Beijing University of Posts and Telecommunications (Nov. 2025)
 2.  The <span style="color: #800080;">**Outstanding Contribution Award (Best Organization Award)**</span> of the 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop (Oct. 2025).
 3.  The <span style="color: #800080;">**2025 National Doctoral Scholarship**</span> (Second year in Ph.D.) (Sep. 2025)
 4.  The <span style="color: #800080;">**Outstanding undergraduate graduate of Henan Province**</span> (May 2023)
@@ -109,6 +109,7 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 4. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Xiyang Wang, Jinbo Zhang, Yashan Pang, Tingdong Zhang, Lizhe Liu, Bin Wang. An object perception method, device, sensing device, program product and medium, January 2025, China, CN202411954508.5, [Quick URL](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0YaXUmvtoCtfIsFISIK72cV4SWTCiPE-idkDr2jVvFy6bjPwxFtbeqc-xgv74MyCYqx2ZPgEgYryEoE9lZsyXY2iQIu20EM5qxpTW2OVodrCZlr8NTByECBUgK5mmg0JoGd3AyLi6vREclTbO2rmQ1F&uniplatform=NZKPT)
 5. Zhiqing Wei, Zhiyong Feng, Fengyun Li, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>. A terminal measuring method, device, network device and storage medium, April 2024, China, CN202410400246.1, [Quick URL](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0bgWgoYoRvrWs3x04tAE3Ll8kIYsX3FucFH_46UvizfwbA2qEEYnu3CDsDmjVnmc0qgEUg9CDv0rJbzmT5yHdZ9A1etujm_JjFQKjWdGgKKabWZETY64IWr15N4etCRU-er25Jsnx8zDiedoHesPgnH&uniplatform=NZKPT)
 6. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, Jiaqi Zan, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Lizhe Liu, Bin Wang, Jinbo Zhang, Yashan Pang, Yandong Zhang. Information processing methods, devices, equipment, storage media and computer program products, January 2025, China, CN202411924007.2, [Quick URL](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0ZITc0V19vaIQwLSEyN9z45WGbdxcEgabIaMoUsv8keBn5oY2AJAWf2mJrU7pW1OWJADMZFZ_AmA3oKqqpw6B01VzuEluGfQs4oLTScoYwz3fzdH5gn8hywSN7F9RR6U2QozWGwcZ6sEzs5uSnQMVZY&uniplatform=NZKPT)
+7. Zhiqing Wei, Zhiyong Feng, Lin Wang, Ping Zhang, Dingyou Ma, Qixun Zhang, <span style="color: #800080;">**Haotian Liu**</span>.  An object perception method, device, sensing device, program product and medium, November 2025, China, CN 202511605489X.
 
 **Continuing ...**
 
@@ -136,3 +137,4 @@ He has published 14 papers in leading international journals, such as IEEE TWC, 
 <p style="text-align: center;">
   <img src="/assets/image/national scholarship.jpg" alt="" width="600"> 
 </p>
+3. (2025.12.13) The TCOM Work "Multipath Component-Enhanced Signal Processing for Integrated Sensing and Communication Systems" has been <span style="color: red;">**reported by several well-known public media**</span>, including [ICAN通信导航一体化](https://mp.weixin.qq.com/s/8nsu0qliQHDipU1BtzIPQQ), [小红书](http://xhslink.com/o/9JKXse7op0s), [湖心亭观雨](https://mp.weixin.qq.com/s/Lac2K3wZgpbbbm2MZRFVGQ).
