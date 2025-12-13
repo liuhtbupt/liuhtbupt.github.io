@@ -137,4 +137,4 @@ He has published 15 papers in leading international journals, such as IEEE TWC, 
 <p style="text-align: center;">
   <img src="/assets/image/national scholarship.jpg" alt="" width="600"> 
 </p>
-3. (2025.12.13) The TCOM Work "Multipath Component-Enhanced Signal Processing for Integrated Sensing and Communication Systems" has been <span style="color: red;">**reported by several well-known public media**</span>, including [ICAN通信导航一体化](https://mp.weixin.qq.com/s/8nsu0qliQHDipU1BtzIPQQ), [小红书](http://xhslink.com/o/9JKXse7op0s), [湖心亭观雨](https://mp.weixin.qq.com/s/Lac2K3wZgpbbbm2MZRFVGQ).
+3. (2025.12.13) The TCOM Work "Multipath Component-Enhanced Signal Processing for Integrated Sensing and Communication Systems" has been <span style="color: red;">**reported by several well-known public media**</span>, including [ICAN通信导航一体化](https://mp.weixin.qq.com/s/8nsu0qliQHDipU1BtzIPQQ), [XX](http://xhslink.com/o/9JKXse7op0s), [湖心亭观雨](https://mp.weixin.qq.com/s/Lac2K3wZgpbbbm2MZRFVGQ).
