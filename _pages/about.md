@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physics and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). 
-He has published 19 papers in leading international journals, such as IEEE TWC, TCOM, TMC, TCCN, and TVT, and has granted 8 patents. He is the recipient of The 2025 National Scholarship Award (Second-year Ph.D.), The (Outstanding Contribution) Best Organization Award of NCIC 2025. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TMC, TCOM, TCCN, TVT, WCL, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
+He has published 22 papers in leading international journals, such as IEEE TWC, TCOM, TMC, TCCN, and TVT, and has granted 8 patents. He is the recipient of The 2025 National Scholarship Award (Second-year Ph.D.), The (Outstanding Contribution) Best Organization Award of NCIC Workshop 2025. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TMC, TCOM, TCCN, TVT, WCL, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and artificial intelligence.
 
 ### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
@@ -41,13 +41,13 @@ He has published 19 papers in leading international journals, such as IEEE TWC, 
 - IEEE Internet of Things Journal
 - IEEE Wireless Communications Letters
 - IEEE Transactions on Consumer Electronics
-- NPJ Wireless Technology
-- Spring Nature: Discover Applied Sciences
-- Spring Nature: Wireless Networks
+- Nature Spring: NPJ Wireless Technology
+- Nature Spring: Discover Applied Sciences
+- Nature Spring: Wireless Networks
 
 **Continuing ...**
 
-**Chair for Workshops:** 
+**Co-Chair for Workshops:** 
 - The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop
 
 **Continuing ...**
@@ -100,8 +100,9 @@ He has published 19 papers in leading international journals, such as IEEE TWC, 
 
 六. Selected Magazine Papers (*Corresponding)
 ======
-1. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082) (<span style="color: red;">PS: Popular Article since publication</span>)
-2. Zhiqing Wei*, Yucong Du, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**\*</span>, Yanpeng Cui, Tao Zhang, Ying Zhou, Huici Wu. Integrated Sensing, Communication and Control Enabled Agile UAV Swarm. **IEEE Internet of Things Magazine (IoTM)**, January 2026, [Quick URL](https://ieeexplore.ieee.org/document/11366906)
+1. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Yunxin Geng, Zhiyong Feng, Guan Gui, Kan Zheng. ISAC-Empowered LEO Constellation Networked Sensing: Challenges and Opportunities. **IEEE Wireless Communications**, February 2026, [Quick URL](https://ieeexplore.ieee.org/document/11417183)
+2. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082) (<span style="color: red;">PS: Popular Article since publication</span>)
+3. Zhiqing Wei*, Yucong Du, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**\*</span>, Yanpeng Cui, Tao Zhang, Ying Zhou, Huici Wu. Integrated Sensing, Communication and Control Enabled Agile UAV Swarm. **IEEE Internet of Things Magazine (IoTM)**, January 2026, [Quick URL](https://ieeexplore.ieee.org/document/11366906)
 
 **Continuing ...**
 
@@ -135,7 +136,7 @@ He has published 19 papers in leading international journals, such as IEEE TWC, 
 
 九. Recent News
 ======
-1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** publised in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for eleven straight months.</span>
+1. Since our work **Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives** published in November 2024, it has secured a spot among the <span style="color: red;">IOTM Popular Articles for eleven straight months.</span>
 <p style="text-align: center;">
   <img src="/assets/image/popular_article_at_IOTM.png" alt="" width="600"> 
 </p>
@@ -146,3 +147,5 @@ He has published 19 papers in leading international journals, such as IEEE TWC, 
 </p>
 
 3. (2025.12.13) The TCOM Work "Multipath Component-Enhanced Signal Processing for Integrated Sensing and Communication Systems" has been <span style="color: red;">**reported by several well-known public media**</span>, including [《ICAN通信导航一体化》](https://mp.weixin.qq.com/s/8nsu0qliQHDipU1BtzIPQQ), [小红书](http://xhslink.com/o/9JKXse7op0s), [《湖心亭观雨》](https://mp.weixin.qq.com/s/Lac2K3wZgpbbbm2MZRFVGQ).
+
+4. (2026.03.07) The TCCN Work "Integrated Sensing and Communication Signal Processing Based on Compressed Sensing Over Unlicensed Spectrum Bands" and GLOBECOM Work "Target Localization with Macro and Micro Base Stations Cooperative Sensing" have been <span style="color: red;">**reported by the well-known public media [《EW Frontier 1》](https://mp.weixin.qq.com/s/zewiCMVEZNVsy5KqmGqCvQ) [《EW Frontier 2》](https://mp.weixin.qq.com/s/xdmtIrrNVYniG4dHfwLYnQ)**</span>
