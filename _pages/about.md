@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Haotian Liu, [IEEE Graduate Student Member](https://www.ieee.org/membership/index.html), [IEEE ComSoc Member](https://www.comsoc.org/), [CIE Student Member](https://www.cie.org.cn/), [CIC Student Member](https://www.china-cic.cn/), received the B.E. degree in School of Physics and Electronic Information Engineering, [Henan Polytechnic University (HPU)](https://www.hpu.edu.cn/) in 2023. He is currently pursuing his Ph.D. degree with [Key Laboratory of Universal Wireless Communications , Ministry of Education](https://mekluwc.bupt.edu.cn/index.htm), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). 
-He has published 22 papers in leading international journals, such as IEEE TWC, TCOM, TMC, TCCN, and TVT, and has granted 8 patents. He is the recipient of The 2025 National Scholarship Award (Second-year Ph.D.), The (Outstanding Contribution) Best Organization Award of NCIC Workshop 2025. He serves as a Workshop Co-Chair at the NCIC 2025. He also serves as a peer reviewer for the high-impact journals, including IEEE TWC, TMC, TCOM, TCCN, TVT, WCL, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, compressed sensing, carrier aggregation, and AI-based communication.
+He has published more than 20 papers in leading international journals and conferences, such as IEEE TWC, TCOM, TMC, TCCN, TAP, and WCM. Among them, 11 papers are published in IEEE Trans. series journals, including 7 popular papers (selected for several consecutive months). He holds 8 granted patents and has participated in the formulation of 3 IMT and CCSA standards related to integrated sensing and communication, as well as the submission of 3 corresponding IMT proposals. He was the recipient of the 2025 National Scholarship Award (Second-year Ph.D.), The (Outstanding Contribution) Best Organization Award of NCIC 2025. He has served as a Workshop Co-Chair at the NCIC 2025 and a TPC member of AICTech 2026. He also serves as a peer reviewer for the high-impact journals, such as IEEE TWC, TMC, TCOM, TCCN, TVT, WCL, and IoT-J. His research focuses on integrated sensing and communication, cooperative sensing, multi-band and multi-nodes, ISAC target-level sensing, and AI-based ISAC.
 
 ### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
@@ -51,6 +51,9 @@ He has published 22 papers in leading international journals, such as IEEE TWC, 
 - The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop
 
 **Continuing ...**
+
+**TPC Member:** 
+- International Conference on Progressive Information and Communication Technologies (AICTech 2026)
 
 ---
 
@@ -126,9 +129,10 @@ He has published 22 papers in leading international journals, such as IEEE TWC, 
 ======
 - Integrated Sensing and Communication (ISAC)
 - Cooperative Sensing
-- Compressed Sensing (CS)
-- Carrier Aggregation (CA)
-- AI-Driven Communication Systems
+- Multi-Band ISAC
+- Multi-Node ISAC
+- ISAC Target-Level Sensing
+- AI-Driven ISAC
 
 **Continuing ...**
 
