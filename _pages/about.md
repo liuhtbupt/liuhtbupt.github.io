@@ -49,6 +49,7 @@ He has published more than 20 papers in leading international journals and confe
 
 **Co-Chair for Workshops:** 
 - The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop
+- International Conference on Progressive Information and Communication Technologies (AICTech 2026) Workshop
 
 **Continuing ...**
 
@@ -103,7 +104,7 @@ He has published more than 20 papers in leading international journals and confe
 
 六. Selected Magazine Papers (*Corresponding)
 ======
-1. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Yunxin Geng, Zhiyong Feng, Guan Gui, Kan Zheng. ISAC-Empowered LEO Constellation Networked Sensing: Challenges and Opportunities. **IEEE Wireless Communications**, February 2026, [Quick URL](https://ieeexplore.ieee.org/document/11417183)
+1. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Yunxin Geng, Zhiyong Feng, Guan Gui, Kan Zheng. ISAC-Empowered LEO Constellation Networked Sensing: Challenges and Opportunities. **IEEE Wireless Communications (WCM)**, February 2026, [Quick URL](https://ieeexplore.ieee.org/document/11417183)
 2. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082) (<span style="color: red;">PS: Popular Article since publication</span>)
 3. Zhiqing Wei*, Yucong Du, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**\*</span>, Yanpeng Cui, Tao Zhang, Ying Zhou, Huici Wu. Integrated Sensing, Communication and Control Enabled Agile UAV Swarm. **IEEE Internet of Things Magazine (IoTM)**, January 2026, [Quick URL](https://ieeexplore.ieee.org/document/11366906)
 
@@ -119,7 +120,7 @@ He has published more than 20 papers in leading international journals and confe
 4. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Xiyang Wang, Jinbo Zhang, Yashan Pang, Tingdong Zhang, Lizhe Liu, Bin Wang. An object perception method, device, sensing device, program product and medium, January 2025, China, CN202411954508.5, [Quick URL](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0YaXUmvtoCtfIsFISIK72cV4SWTCiPE-idkDr2jVvFy6bjPwxFtbeqc-xgv74MyCYqx2ZPgEgYryEoE9lZsyXY2iQIu20EM5qxpTW2OVodrCZlr8NTByECBUgK5mmg0JoGd3AyLi6vREclTbO2rmQ1F&uniplatform=NZKPT)
 5. Zhiqing Wei, Zhiyong Feng, Fengyun Li, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>. A terminal measuring method, device, network device and storage medium, April 2024, China, CN202410400246.1, [Quick URL](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0bgWgoYoRvrWs3x04tAE3Ll8kIYsX3FucFH_46UvizfwbA2qEEYnu3CDsDmjVnmc0qgEUg9CDv0rJbzmT5yHdZ9A1etujm_JjFQKjWdGgKKabWZETY64IWr15N4etCRU-er25Jsnx8zDiedoHesPgnH&uniplatform=NZKPT)
 6. Zhiqing Wei, Zhiqun Song, Zhiyong Feng, Jiaqi Zan, Ping Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Lizhe Liu, Bin Wang, Jinbo Zhang, Yashan Pang, Yandong Zhang. Information processing methods, devices, equipment, storage media and computer program products, January 2025, China, CN202411924007.2, [Quick URL](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0ZITc0V19vaIQwLSEyN9z45WGbdxcEgabIaMoUsv8keBn5oY2AJAWf2mJrU7pW1OWJADMZFZ_AmA3oKqqpw6B01VzuEluGfQs4oLTScoYwz3fzdH5gn8hywSN7F9RR6U2QozWGwcZ6sEzs5uSnQMVZY&uniplatform=NZKPT)
-7. Zhiqing Wei, Zhiyong Feng, Lin Wang, Ping Zhang, Dingyou Ma, Qixun Zhang, <span style="color: #800080;">**Haotian Liu**</span>.  An object perception method, device, sensing device, program product and medium, November 2025, China, CN 202511605489X.
+7. Zhiqing Wei, Zhiyong Feng, Lin Wang, Ping Zhang, Dingyou Ma, Qixun Zhang, <span style="color: #800080;">**Haotian Liu**</span>.  An object perception method, device, sensing device, program product and medium, November 2025, China, CN 202511605489X. [Quick URL](http://kns--cnki--net--https.cnki.mdjsf.utuvpn.utuedu.com:9000/kcms2/article/abstract?v=InrCKZ6Ohl7PelZxOsjJQ_y-v19-FlPUAGxO3kj_k80V_4TDkheUg5l4IOW05R0rlak_RoBXjr471Yhi0b6y5SoY08H62AtpjDRDhvTRXKkgzLgvPXu5LNhf10Frg_FzIoPCgx9IP4HNXVq9YSqqUgsuT_u6gcqNqVUs0IQp3dvtdDgErdfSRw==&uniplatform=NZKPT&language=CHS)
 
 **Continuing ...**
 
@@ -132,6 +133,7 @@ He has published more than 20 papers in leading international journals and confe
 - Multi-Band ISAC
 - Multi-Node ISAC
 - ISAC Target-Level Sensing
+- ISAC Event-Level Sensing
 - AI-Driven ISAC
 
 **Continuing ...**
