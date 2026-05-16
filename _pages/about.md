@@ -49,13 +49,13 @@ He has published more than 20 papers in leading international journals and confe
 **Continuing ...**
 
 **Co-Chair for Workshops:** 
-- The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop
-- International Conference on Progressive Information and Communication Technologies (AICTech 2026) Workshop
+- The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop [Quick URL](https://www.icncic.org/?post_type=products&page_id=43148%2F)
+- International Conference on Progressive Information and Communication Technologies (AICTech 2026) Workshop [Qucik URL](https://www.aicte.net/workshops/)
 
 **Continuing ...**
 
 **TPC Member:** 
-- International Conference on Progressive Information and Communication Technologies (AICTech 2026)
+- International Conference on Progressive Information and Communication Technologies (AICTech 2026) [Qucik URL](https://www.aicte.net/committee/)
 
 ---
 
