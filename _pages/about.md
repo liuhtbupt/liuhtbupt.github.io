@@ -166,3 +166,5 @@ He has published more than 30 papers in leading international journals and confe
 4. (2026.03.07) The TCCN Work "Integrated Sensing and Communication Signal Processing Based on Compressed Sensing Over Unlicensed Spectrum Bands" and GLOBECOM Work "Target Localization with Macro and Micro Base Stations Cooperative Sensing" have been <span style="color: red;">**reported by the well-known public media [《EW Frontier 1》](https://mp.weixin.qq.com/s/zewiCMVEZNVsy5KqmGqCvQ) [《EW Frontier 2》](https://mp.weixin.qq.com/s/xdmtIrrNVYniG4dHfwLYnQ)**</span>
 
 5. (2026.05.21) The TWC Work "Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing" has been <span style="color: red;">**reported by the well-known public media [《ICAN通信导航一体化》](https://mp.weixin.qq.com/s/7Z2S5sVAQNZpcVlXj_kh6A)**</span>
+
+6. (2026.05.30) The WCM Work "ISAC-Empowered LEO Constellation Networked Sensing: Challenges and Opportunities" has been <span style="color: red;">**reported by the well-known public media [《静水卫星漫步》](https://mp.weixin.qq.com/s/0hfXC7_q18ES7qBrX4dZ2Q)**</span>
