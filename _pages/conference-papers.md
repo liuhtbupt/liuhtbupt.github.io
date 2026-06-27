@@ -12,4 +12,5 @@ author_profile: true
 5. Wenyan Xu, Zhiqing Wei*, Zhiqun Song, Yixin Zhang, <span style="color: #800080;">**Haotian Liu**</span>, Ying Zhou, Xiaoyu Yang, Yashan Pang. Delay Performance Analysis with Short Packets in Intelligent Machine Network. **2025 IEEE 102nd Vehicular Technology Conference (VTC)**, October 2025, [Quick URL](https://ieeexplore.ieee.org/document/11310533)
 6. Han Wang, Yixin Zhang*, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**</span>, Hui Yu, Dingyou Ma, Qixun Zhang, Zhiyong Feng. ISAC 3D Imaging in Smart Factories Assisted by Multipath Components. **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, October 2025, [Quick URL](https://ieeexplore.ieee.org/document/11352278)
 7. Linbin Zheng, Yixin Zhang*, Zhiqing Wei, Dingyou Ma, <span style="color: #800080;">**Haotian Liu**</span>, Qixun Zhang, Zhiyong Feng. ISAC 3D Imaging in Urban Environments: A Joint Active and Passive Sensing Approach. **2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)**, October 2025, [Quick URL](https://ieeexplore.ieee.org/document/11352316) 
+
 ---
