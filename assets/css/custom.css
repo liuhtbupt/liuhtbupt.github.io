@@ -291,4 +291,36 @@ body {
   }
 }
 ```
+/* =========================================================
+   Move the whole main content down to avoid header overlap
+   ========================================================= */
 
+/* 桌面端：整体下移 */
+.initial-content {
+  padding-top: 125px !important;
+}
+
+/* 左侧个人信息栏稍微再下移一点，更舒服 */
+.sidebar {
+  margin-top: 20px !important;
+}
+
+/* 正文区域也保持一致 */
+.page {
+  margin-top: 20px !important;
+}
+
+/* 窄屏时导航栏更容易变高，所以再多留一点空间 */
+@media (max-width: 900px) {
+  .initial-content {
+    padding-top: 155px !important;
+  }
+
+  .sidebar {
+    margin-top: 25px !important;
+  }
+
+  .page {
+    margin-top: 25px !important;
+  }
+}
