@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haotian Liu"
+title                    : "Biography"
 title_separator          : "-"
 name                     : &name "Haotian Liu"
 description              : &description "Personal Homepage"
