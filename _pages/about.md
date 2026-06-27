@@ -14,53 +14,6 @@ He has published more than 30 papers in leading international journals and confe
 ### 🔗 **[My Chinese Homepage](https://www.scholat.com/haotianliubupt)**  
 ### 📧 **[Email Me](mailto:haotian_liu@bupt.edu.cn)**  
 ### 🟢 **Wechat**: +86 15738993901
-
----
-
-一. Education
-======
-- **2023 - Present**  
-  Beijing University of Posts and Telecommunications, Ph.D. Candidate in Information and Communication Engineering (Current)  
-  *Recommended for Graduate Studies（推免）and admitted to the Master's and Ph.D. degree through direct entry (硕博连读).*  
-  Supervisor（M.S.）: Prof. [Zhiyong Feng](https://sice.bupt.edu.cn/info/1010/1648.htm)<br>
-  Supervisor（Ph.D.）: Prof. [Zhiqing Wei](https://teacher.bupt.edu.cn/weizhiqing/zh_CN/index.htm)
-
-- **2019 - 2023**  
-  Henan Polytechnic University, School of Physics and Electronic Information Engineering, Bachelor of Engineering  
-  Supervisor: Prof. [Xingwang Li](https://wdxy.hpu.edu.cn/info/1078/1919.htm)
-
----
-
-二. Academic Services
-======
-**Reviewer for Journals:**  
-- IEEE Transactions on Wireless Communications
-- IEEE Transactions on Mobile Computing
-- IEEE Transactions on Communications  
-- IEEE Transactions on Cognitive Communications and Networking
-- IEEE Transactions on Vehicular Technology
-- IEEE Internet of Things Journal
-- IEEE Wireless Communications Letters
-- IEEE Communications Letters
-- IEEE Transactions on Consumer Electronics
-- Science China Information Sciences
-- Nature Spring: NPJ Wireless Technology
-- Nature Spring: Discover Applied Sciences
-- Nature Spring: Wireless Networks
-
-**Continuing ...**
-
-**Co-Chair for Workshops:** 
-- The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop [Quick URL](https://www.icncic.org/?post_type=products&page_id=43148%2F)
-- International Conference on Progressive Information and Communication Technologies (AICTech 2026) Workshop [Qucik URL](https://www.aicte.net/workshops/)
-
-**Continuing ...**
-
-**TPC Member:** 
-- International Conference on Progressive Information and Communication Technologies (AICTech 2026) [Qucik URL](https://www.aicte.net/committee/)
-- IEEE/CIC International Conference on Communications in China (ICCC) 2026 [Qucik URL](https://iccc2026.ieee-iccc.org/committees)
-
-**Continuing ...**
 ---
 
 三. Awards and Honors
