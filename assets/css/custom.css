@@ -243,3 +243,52 @@ body {
     padding: 0.85rem 0.9rem;
   }
 }
+
+```css
+/* =========================================================
+   Compact header: keep News visible in the top navigation
+   Add this to the END of assets/css/custom.css
+   ========================================================= */
+
+/* 左侧站点标题：缩小一点 */
+.masthead__menu-item--lg {
+  padding-right: 0.8rem;
+}
+
+.masthead__menu-item--lg a {
+  font-size: 0.95rem !important;
+  font-weight: 800 !important;
+  white-space: nowrap;
+}
+
+/* 顶部导航：缩小字体和左右间距 */
+.greedy-nav .visible-links a {
+  font-size: 0.88rem !important;
+  padding: 0.42rem 0.55rem !important;
+  margin: 0 0.02rem !important;
+}
+
+/* 顶部导航整体更紧凑 */
+.greedy-nav .visible-links {
+  gap: 0 !important;
+}
+
+/* 防止导航栏高度太高 */
+.masthead__inner-wrap {
+  padding-top: 0.55em !important;
+  padding-bottom: 0.55em !important;
+}
+
+/* 中等屏幕下进一步压缩 */
+@media (max-width: 1200px) {
+  .masthead__menu-item--lg a {
+    font-size: 0.88rem !important;
+  }
+
+  .greedy-nav .visible-links a {
+    font-size: 0.82rem !important;
+    padding: 0.36rem 0.42rem !important;
+  }
+}
+```
+
