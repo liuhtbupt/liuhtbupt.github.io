@@ -20,17 +20,11 @@ author_profile: true
 - Nature Spring: Discover Applied Sciences
 - Nature Spring: Wireless Networks
 
-**Continuing ...**
-
 **Co-Chair for Workshops:** 
 - The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop [Quick URL](https://www.icncic.org/?post_type=products&page_id=43148%2F)
 - International Conference on Progressive Information and Communication Technologies (AICTech 2026) Workshop [Qucik URL](https://www.aicte.net/workshops/)
 
-**Continuing ...**
-
 **TPC Member:** 
 - International Conference on Progressive Information and Communication Technologies (AICTech 2026) [Qucik URL](https://www.aicte.net/committee/)
 - IEEE/CIC International Conference on Communications in China (ICCC) 2026 [Qucik URL](https://iccc2026.ieee-iccc.org/committees)
-
-**Continuing ...**
 ---
