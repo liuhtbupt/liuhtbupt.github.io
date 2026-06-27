@@ -1,6 +1,6 @@
 ---
 title: "Journal Papers (*Corresponding)"
-permalink: /education/
+permalink: /journal-papers/
 layout: single
 author_profile: true
 ---
