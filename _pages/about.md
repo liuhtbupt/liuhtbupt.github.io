@@ -16,16 +16,6 @@ He has published more than 30 papers in leading international journals and confe
 ### 🟢 **Wechat**: +86 15738993901
 ---
 
-六. Selected Magazine Papers (*Corresponding)
-======
-1. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Yunxin Geng, Zhiyong Feng, Guan Gui, Kan Zheng. ISAC-Empowered LEO Constellation Networked Sensing: Challenges and Opportunities. **IEEE Wireless Communications (WCM)**, February 2026, [Quick URL](https://ieeexplore.ieee.org/document/11417183)
-2. Zhiqing Wei*, <span style="color: #800080;">**Haotian Liu**\*</span>, Zhiyong Feng, Huici Wu, Fan Liu, Qixun Zhang, Yucong Du. Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives. **IEEE Internet of Things Magazine (IoTM)**, November 2024, [Quick URL](https://ieeexplore.ieee.org/document/10614082) (<span style="color: red;">PS: Popular Article since publication</span>)
-3. Zhiqing Wei*, Yucong Du, Zhiyong Feng, <span style="color: #800080;">**Haotian Liu**\*</span>, Yanpeng Cui, Tao Zhang, Ying Zhou, Huici Wu. Integrated Sensing, Communication and Control Enabled Agile UAV Swarm. **IEEE Internet of Things Magazine (IoTM)**, January 2026, [Quick URL](https://ieeexplore.ieee.org/document/11366906)
-
-**Continuing ...**
-
----
-
 七. Patents
 ======
 1. Zhiyong Feng, Zhiqing Wei, <span style="color: #800080;">**Haotian Liu**</span>, Ping Zhang, Luyang Sun, Ruizhong Xu. Sensing signal processing methods, devices, equipment, storage media and program products, July 2025, China, CN202510881921.1, [Quick URL](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)
