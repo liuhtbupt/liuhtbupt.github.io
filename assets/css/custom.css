@@ -1,8 +1,11 @@
 /* =========================================================
    Haotian Liu Personal Homepage - Modern Academic Style
-   Put this file at: assets/css/custom.css
+   File: assets/css/custom.css
    ========================================================= */
 
+/* ------------------------------
+   Global color variables
+   ------------------------------ */
 :root {
   --hl-blue: #2563eb;
   --hl-cyan: #06b6d4;
@@ -10,7 +13,7 @@
   --hl-deep: #0f172a;
   --hl-text: #334155;
   --hl-muted: #64748b;
-  --hl-card: rgba(255, 255, 255, 0.82);
+  --hl-card: rgba(255, 255, 255, 0.84);
   --hl-border: rgba(37, 99, 235, 0.16);
   --hl-shadow: 0 18px 45px rgba(15, 23, 42, 0.10);
 }
@@ -28,28 +31,56 @@ body {
     linear-gradient(180deg, #f8fbff 0%, #eef5ff 100%);
 }
 
-/* 顶部导航栏：玻璃质感 */
+/* =========================================================
+   Fixed top navigation bar
+   导航栏从网页打开时就固定在最上方
+   ========================================================= */
+
 .masthead {
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  background: rgba(255, 255, 255, 0.76);
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
+  z-index: 9999 !important;
+  background: rgba(255, 255, 255, 0.88) !important;
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid rgba(37, 99, 235, 0.12);
   box-shadow: 0 10px 32px rgba(15, 23, 42, 0.08);
 }
 
-.greedy-nav {
-  background: transparent;
+.masthead__inner-wrap {
+  padding-top: 0.48em !important;
+  padding-bottom: 0.48em !important;
 }
 
+/* 网站左侧标题 */
+.masthead__menu-item--lg {
+  padding-right: 0.75rem !important;
+}
+
+.masthead__menu-item--lg a {
+  font-size: 0.9rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.1px;
+  white-space: nowrap !important;
+}
+
+/* 顶部导航整体 */
+.greedy-nav {
+  background: transparent !important;
+}
+
+/* 顶部导航链接：紧凑化，保证 News 能显示出来 */
 .greedy-nav .visible-links a {
   border-radius: 999px;
-  padding: 0.55rem 0.78rem;
-  margin: 0 0.08rem;
+  padding: 0.38rem 0.50rem !important;
+  margin: 0 0.01rem !important;
   color: var(--hl-deep);
-  font-weight: 650;
+  font-size: 0.86rem !important;
+  font-weight: 700;
+  white-space: nowrap;
   transition: all 0.22s ease;
 }
 
@@ -60,23 +91,36 @@ body {
   box-shadow: 0 10px 22px rgba(37, 99, 235, 0.24);
 }
 
-/* 网站标题 */
-.masthead__menu-item--lg a {
-  font-weight: 800 !important;
-  letter-spacing: 0.2px;
+.greedy-nav .visible-links {
+  gap: 0 !important;
 }
 
-/* 主体区域稍微放宽一点 */
+/* =========================================================
+   Main content spacing
+   给固定导航栏预留空间，并让左侧栏整体稍微下移
+   ========================================================= */
+
+/* 防止正文被固定导航栏遮住 */
+.initial-content {
+  padding-top: 110px !important;
+}
+
+/* 左侧个人信息栏整体下移 */
+.sidebar {
+  margin-top: 24px !important;
+}
+
+/* 右侧正文也稍微下移，和左侧保持协调 */
 .page {
+  margin-top: 18px !important;
   animation: fadeUp 0.55s ease both;
 }
 
-.page__content {
-  font-size: 1.02rem;
-  line-height: 1.85;
-}
+/* =========================================================
+   Left sidebar card
+   左侧作者栏：个人名片效果
+   ========================================================= */
 
-/* 左侧作者栏：个人名片效果 */
 .sidebar {
   background: var(--hl-card);
   border: 1px solid var(--hl-border);
@@ -111,7 +155,16 @@ body {
   color: var(--hl-muted);
 }
 
-/* 右侧正文标题 */
+/* =========================================================
+   Main page content
+   右侧正文区域
+   ========================================================= */
+
+.page__content {
+  font-size: 1.02rem;
+  line-height: 1.85;
+}
+
 .page__content h1 {
   display: inline-block;
   margin-bottom: 1.4rem;
@@ -142,7 +195,7 @@ body {
   border-left: 5px solid var(--hl-blue);
 }
 
-/* 链接：更精致 */
+/* 正文链接 */
 .page__content a {
   color: #0f766e;
   font-weight: 650;
@@ -156,7 +209,11 @@ body {
   background-image: linear-gradient(transparent 68%, rgba(37, 99, 235, 0.24) 0);
 }
 
-/* 列表卡片化：论文、新闻、专利都会更好看 */
+/* =========================================================
+   Lists as cards
+   论文、新闻、专利等列表卡片化
+   ========================================================= */
+
 .page__content ol > li {
   margin: 1rem 0;
   padding: 1rem 1.1rem;
@@ -177,7 +234,11 @@ body {
   margin: 0.45rem 0;
 }
 
-/* 图片展示更像成果墙 */
+/* =========================================================
+   Images
+   图片展示效果
+   ========================================================= */
+
 .page__content img {
   border-radius: 18px;
   box-shadow: 0 18px 42px rgba(15, 23, 42, 0.14);
@@ -189,7 +250,10 @@ body {
   box-shadow: 0 24px 54px rgba(15, 23, 42, 0.18);
 }
 
-/* 分割线更柔和 */
+/* =========================================================
+   Divider and footer
+   ========================================================= */
+
 .page__content hr {
   height: 1px;
   border: none;
@@ -197,7 +261,6 @@ body {
   background: linear-gradient(90deg, transparent, rgba(37, 99, 235, 0.28), transparent);
 }
 
-/* Footer */
 .page__footer {
   background: linear-gradient(135deg, #0f172a, #1e293b);
   color: rgba(255, 255, 255, 0.82);
@@ -207,32 +270,79 @@ body {
   color: #93c5fd;
 }
 
-/* 进入动画 */
+/* =========================================================
+   Animation
+   ========================================================= */
+
 @keyframes fadeUp {
   from {
     opacity: 0;
     transform: translateY(14px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
   }
 }
 
-/* 手机端适配 */
-@media (max-width: 900px) {
-  .masthead {
-    position: relative;
+/* =========================================================
+   Medium screen adaptation
+   中等屏幕进一步压缩导航栏
+   ========================================================= */
+
+@media (max-width: 1200px) {
+  .masthead__menu-item--lg a {
+    font-size: 0.84rem !important;
   }
 
   .greedy-nav .visible-links a {
-    padding: 0.45rem 0.55rem;
-    font-size: 0.86rem;
+    font-size: 0.80rem !important;
+    padding: 0.34rem 0.38rem !important;
+  }
+
+  .initial-content {
+    padding-top: 112px !important;
+  }
+}
+
+/* =========================================================
+   Mobile adaptation
+   窄屏适配：仍然保持导航栏固定在顶部
+   ========================================================= */
+
+@media (max-width: 900px) {
+  .masthead {
+    position: fixed !important;
+    top: 0 !important;
+  }
+
+  .masthead__inner-wrap {
+    padding-top: 0.35em !important;
+    padding-bottom: 0.35em !important;
+  }
+
+  .masthead__menu-item--lg a {
+    font-size: 0.78rem !important;
+  }
+
+  .greedy-nav .visible-links a {
+    font-size: 0.74rem !important;
+    padding: 0.30rem 0.32rem !important;
+  }
+
+  .initial-content {
+    padding-top: 130px !important;
   }
 
   .sidebar {
-    border-radius: 18px;
+    margin-top: 28px !important;
     margin-bottom: 1.2rem;
+    border-radius: 18px;
+  }
+
+  .page {
+    margin-top: 22px !important;
   }
 
   .page__content h1 {
@@ -241,86 +351,5 @@ body {
 
   .page__content ol > li {
     padding: 0.85rem 0.9rem;
-  }
-}
-
-```css
-/* =========================================================
-   Compact header: keep News visible in the top navigation
-   Add this to the END of assets/css/custom.css
-   ========================================================= */
-
-/* 左侧站点标题：缩小一点 */
-.masthead__menu-item--lg {
-  padding-right: 0.8rem;
-}
-
-.masthead__menu-item--lg a {
-  font-size: 0.95rem !important;
-  font-weight: 800 !important;
-  white-space: nowrap;
-}
-
-/* 顶部导航：缩小字体和左右间距 */
-.greedy-nav .visible-links a {
-  font-size: 0.88rem !important;
-  padding: 0.42rem 0.55rem !important;
-  margin: 0 0.02rem !important;
-}
-
-/* 顶部导航整体更紧凑 */
-.greedy-nav .visible-links {
-  gap: 0 !important;
-}
-
-/* 防止导航栏高度太高 */
-.masthead__inner-wrap {
-  padding-top: 0.55em !important;
-  padding-bottom: 0.55em !important;
-}
-
-/* 中等屏幕下进一步压缩 */
-@media (max-width: 1200px) {
-  .masthead__menu-item--lg a {
-    font-size: 0.88rem !important;
-  }
-
-  .greedy-nav .visible-links a {
-    font-size: 0.82rem !important;
-    padding: 0.36rem 0.42rem !important;
-  }
-}
-```
-/* =========================================================
-   Move the whole main content down to avoid header overlap
-   ========================================================= */
-
-/* 桌面端：整体下移 */
-.initial-content {
-  padding-top: 125px !important;
-}
-
-/* 左侧个人信息栏稍微再下移一点，更舒服 */
-.sidebar {
-  margin-top: 20px !important;
-}
-
-/* 正文区域也保持一致 */
-.page {
-  margin-top: 20px !important;
-}
-
-/* 窄屏时导航栏更容易变高，所以再多留一点空间 */
-@media (max-width: 900px) {
-  .initial-content {
-    padding-top: 155px !important;
-  }
-
-  .sidebar {
-    margin-top: 25px !important;
-  }
-
-  .page {
-    margin-top: 25px !important;
   }
 }
