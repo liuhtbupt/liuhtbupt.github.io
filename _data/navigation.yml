@@ -4,23 +4,23 @@ main:
   - title: "Education"
     url: /education/
 
-  # - title: "Services"
-  #   url: /academic-services/
+  - title: "Services"
+    url: /academic-services/
 
-  # - title: "Awards"
-  #   url: /awards/
+  - title: "Awards"
+    url: /awards/
 
-  # - title: "Journals"
-  #   url: /journal-papers/
+  - title: "Journals"
+    url: /journal-papers/
 
-  # - title: "Conferences"
-  #   url: /conference-papers/
+  - title: "Conferences"
+    url: /conference-papers/
 
-  # - title: "Magazines"
-  #   url: /magazine-papers/
+  - title: "Magazines"
+    url: /magazine-papers/
 
-  # - title: "Patents"
-  #   url: /patents/
+  - title: "Patents"
+    url: /patents/
 
-  # - title: "News"
-  #   url: /news/
+  - title: "News"
+    url: /news/
