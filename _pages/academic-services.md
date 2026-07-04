@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Reviewer for Journals:**  
+**Reviewer:**  
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Communications  
@@ -16,11 +16,12 @@ author_profile: true
 - IEEE Communications Letters
 - IEEE Transactions on Consumer Electronics
 - Science China Information Sciences
+- IEEE/CIC ICCC'26
 - Nature Spring: NPJ Wireless Technology
 - Nature Spring: Discover Applied Sciences
 - Nature Spring: Wireless Networks
 
-**Co-Chair for Workshops:** 
+**Co-Chair for Conference:** 
 - The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop [Quick URL](https://www.icncic.org/?post_type=products&page_id=43148%2F)
 - International Conference on Progressive Information and Communication Technologies (AICTech 2026) Workshop [Qucik URL](https://www.aicte.net/workshops/)
 
