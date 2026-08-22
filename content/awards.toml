@@ -1,0 +1,69 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards listed on the previous academic website."
+count_text = "Total: {count}"
+enable_level_filters = true
+level_filter_label = "Award type"
+all_levels_label = "All"
+no_results_text = "No awards match this type."
+
+[[items]]
+title = "Academic Pioneer Award (Sole Recipient)"
+subtitle = "AICTech 2026"
+date = "2026"
+level = "Society / Conference"
+
+[[items]]
+title = "Best Paper Award"
+subtitle = "AICTech 2026"
+date = "2026"
+level = "Society / Conference"
+
+[[items]]
+title = "Outstanding Contribution Award (Best Organization Award)"
+subtitle = "AICTech 2026 Workshop"
+date = "2026"
+level = "Society / Conference"
+
+[[items]]
+title = "Best Paper Award"
+subtitle = "IEEE CCAI 2026"
+date = "May 2026"
+level = "Society / Conference"
+
+[[items]]
+title = "Outstanding Graduate Student Award"
+subtitle = "Beijing University of Posts and Telecommunications"
+date = "November 2025"
+level = "University"
+
+[[items]]
+title = "Outstanding Contribution Award (Best Organization Award)"
+subtitle = "NCIC 2025 Workshop"
+date = "October 2025"
+level = "Society / Conference"
+
+[[items]]
+title = "National Doctoral Scholarship"
+subtitle = "Beijing University of Posts and Telecommunications"
+date = "September 2025"
+level = "National"
+content = "Received during the second year of Ph.D. study."
+
+[[items]]
+title = "Outstanding Undergraduate Graduate of Henan Province"
+subtitle = "Henan Polytechnic University"
+date = "May 2023"
+level = "Provincial"
+
+[[items]]
+title = "National Bachelor's Scholarship"
+subtitle = "Henan Polytechnic University"
+date = "December 2021"
+level = "National"
+
+[[items]]
+title = "Three Good Student in Henan Province"
+subtitle = "Henan Polytechnic University"
+date = "September 2021"
+level = "Provincial"

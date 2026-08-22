@@ -1,0 +1,38 @@
+type = "card"
+title = "Academic Services"
+description = "Reviewing, conference organization, and technical program committee service."
+
+[[items]]
+title = "Journal Reviewer"
+level = "Journals"
+content = """
+1. IEEE Transactions on Wireless Communications
+2. IEEE Transactions on Mobile Computing
+3. IEEE Transactions on Communications
+4. IEEE Transactions on Cognitive Communications and Networking
+5. IEEE Transactions on Vehicular Technology
+6. IEEE Internet of Things Journal
+7. IEEE Wireless Communications Letters
+8. IEEE Communications Letters
+9. IEEE Transactions on Consumer Electronics
+10. Science China Information Sciences
+11. npj Wireless Technology
+12. Discover Applied Sciences
+13. Wireless Networks
+"""
+
+[[items]]
+title = "Workshop Co-Chair"
+level = "Conference Organization"
+content = """
+1. [The 3rd International Conference on Networks, Communications and Intelligent Computing (NCIC 2025) Workshop](https://www.icncic.org/?post_type=products&page_id=43148%2F)
+2. [International Conference on Progressive Information and Communication Technologies (AICTech 2026) Workshop](https://www.aicte.net/workshops/)
+"""
+
+[[items]]
+title = "Technical Program Committee Member"
+level = "Conference Service"
+content = """
+1. [International Conference on Progressive Information and Communication Technologies (AICTech 2026)](https://www.aicte.net/committee/)
+2. [IEEE/CIC International Conference on Communications in China (ICCC 2026)](https://iccc2026.ieee-iccc.org/committees)
+"""

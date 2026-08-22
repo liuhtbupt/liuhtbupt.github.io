@@ -1,0 +1,56 @@
+name: Weekly publication monitor
+
+on:
+  schedule:
+    # Every Monday at 10:17 China Standard Time (02:17 UTC).
+    - cron: "17 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-publications:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+
+      - name: Check Crossref for candidate publications
+        id: check
+        run: node scripts/check-publications.mjs --output "$RUNNER_TEMP/publication-update.md" --github-output "$GITHUB_OUTPUT"
+
+      - name: Create or update PDF reminder issue
+        if: steps.check.outputs.found == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          BODY_FILE: ${{ runner.temp }}/publication-update.md
+          ISSUE_TITLE: "检测到新论文：请核对并上传 PDF"
+        run: |
+          gh label create "publication-update" --color "C17D11" --description "自动检测到的论文更新" --force
+          issue_number=$(gh issue list --label "publication-update" --state open --json number --jq '.[0].number')
+          if [ -n "$issue_number" ]; then
+            gh issue edit "$issue_number" --title "$ISSUE_TITLE" --body-file "$BODY_FILE"
+          elif ! gh issue create --title "$ISSUE_TITLE" --body-file "$BODY_FILE" --label "publication-update" --assignee "$REPO_OWNER"; then
+            gh issue create --title "$ISSUE_TITLE" --body-file "$BODY_FILE" --label "publication-update"
+          fi
+
+      - name: Close completed reminder
+        if: steps.check.outputs.found == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh label create "publication-update" --color "C17D11" --description "自动检测到的论文更新" --force
+          issue_number=$(gh issue list --label "publication-update" --state open --json number --jq '.[0].number')
+          if [ -n "$issue_number" ]; then
+            gh issue close "$issue_number" --comment "当前未发现尚未加入网站的候选论文，此提醒已自动关闭。"
+          fi

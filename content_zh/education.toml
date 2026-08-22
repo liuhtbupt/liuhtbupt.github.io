@@ -1,0 +1,18 @@
+type = "card"
+title = "教育经历"
+description = "个人教育背景。"
+
+[[items]]
+title = "信息与通信工程博士研究生"
+subtitle = "北京邮电大学 · 信息与通信工程学院 · 泛网无线通信教育部重点实验室"
+date = "2023年至今"
+content = """
+推荐免试攻读研究生，并通过硕博连读方式攻读博士学位。
+
+硕士阶段导师：[**冯志勇教授**](https://sice.bupt.edu.cn/info/1010/1648.htm)；博士阶段导师：[**尉志青教授**](https://teacher.bupt.edu.cn/weizhiqing/zh_CN/index.htm)。"""
+
+[[items]]
+title = "工学学士"
+subtitle = "河南理工大学 · 物理与电子信息学院"
+date = "2019–2023"
+content = "导师：[**李兴旺教授**](https://wdxy.hpu.edu.cn/info/1078/1919.htm)。"

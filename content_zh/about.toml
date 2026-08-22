@@ -1,0 +1,32 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "通感一体化（ISAC）",
+  "协作感知",
+  "多频段通感一体化",
+  "多节点通感一体化",
+  "通感一体化目标级感知",
+  "通感一体化事件级感知",
+  "人工智能驱动的通感一体化"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "个人简介"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "近期动态"
+source = "news.toml"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "精选论文"
+filter = "selected"
+limit = 5

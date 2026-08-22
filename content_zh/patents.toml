@@ -1,0 +1,72 @@
+type = "card"
+title = "专利"
+sort_by_date = true
+description = "旧版个人网站列出的专利申请。在确认授权状态前，暂不统一表述为授权专利。"
+count_text = "共 {count} 项"
+enable_author_filters = true
+highlight_name = "刘浩田"
+author_filter_label = "作者身份"
+all_authors_label = "全部"
+student_author_label = "学生作者"
+first_author_label = "第一作者"
+no_results_text = "没有符合该作者身份的专利。"
+
+[[items]]
+title = "星地下行链路信道状态的预测方法及装置"
+subtitle = "冯志勇、姜蔚蔚、耿运鑫、尉志青、刘浩田、王子藤"
+date = "2026年7月29日"
+content = "中国专利申请 CN2026111347526。北京邮电大学已受理。"
+
+[[items]]
+title = "一种星地链路预测模型的跨地理环境快速适配方法及装置"
+subtitle = "姜蔚蔚、冯志勇、耿运鑫、尉志青、王子藤、刘浩田"
+date = "2026年7月29日"
+content = "中国专利申请 CN2026111351038。"
+
+[[items]]
+title = "一种上行通感一体化系统信号处理方法、装置及存储介质"
+subtitle = "尉志青、冯志勇、刘浩田、张平、杜雨聪、王琳"
+date = "2026年3月18日"
+content = "中国专利申请 2026103311363。申请人：北京邮电大学。"
+
+[[items]]
+title = "感知信号处理方法、装置、设备、存储介质及程序产品"
+subtitle = "冯志勇、尉志青、刘浩田、张平、孙陆阳、徐睿中"
+date = "2025年7月"
+content = "中国专利申请 CN202510881921.1。[专利链接](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)。"
+
+[[items]]
+title = "网络设备的信号处理方法、装置、存储介质及计算机程序产品"
+subtitle = "尉志青、冯志勇、刘浩田、张平、宋早迪"
+date = "2024年5月"
+content = "中国专利申请 CN202410608339.3。[专利链接](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0a8rFtZVV-7g5wgoqqAZAeTlpSYOf5EGjx9ENSj0eBZqsxkVNP29ovx76_iRlGvYhxz2GdLr-93-WzSeJ1zKc_1In76Gx-E1Q9fs5RshiBEZZwkBdA_OfXXKa9tKYDoyYL96q6UPkMwtd7h0w0_M6mU&uniplatform=NZKPT)。"
+
+[[items]]
+title = "多点协作无源感知方法、装置、接收节点及介质"
+subtitle = "冯志勇、尉志青、刘浩田、张平、韩凯峰、姜旺俊"
+date = "2024年5月"
+content = "中国专利申请 CN202410593729.8。[专利链接](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0ZRiiUhFblXczgRk8qp9SxHfTBPf8ukTFtvBsOAPB1bN5Ot2p9Kj8aswO3r-vUJ3G_3PcfGcQc6qFXa_RYYR6RsjWpP_CsbByU-ATJh1jtlHjX8GwM3UfrbpBiCkT04ft11ja1g8qR6gkK52ZYA7BTl&uniplatform=NZKPT)。"
+
+[[items]]
+title = "目标感知方法、装置、感知设备、程序产品及介质"
+subtitle = "尉志青、宋志群、冯志勇、刘浩田、张平、王曦阳、张晋博、庞亚珊、张庭栋、刘立哲、王斌"
+date = "2025年1月"
+content = "中国专利申请 CN202411954508.5。[专利链接](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0YaXUmvtoCtfIsFISIK72cV4SWTCiPE-idkDr2jVvFy6bjPwxFtbeqc-xgv74MyCYqx2ZPgEgYryEoE9lZsyXY2iQIu20EM5qxpTW2OVodrCZlr8NTByECBUgK5mmg0JoGd3AyLi6vREclTbO2rmQ1F&uniplatform=NZKPT)。"
+
+[[items]]
+title = "终端测量方法、装置、网络设备及存储介质"
+subtitle = "尉志青、冯志勇、李凤云、张平、刘浩田"
+date = "2024年4月"
+content = "中国专利申请 CN202410400246.1。[专利链接](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0bgWgoYoRvrWs3x04tAE3Ll8kIYsX3FucFH_46UvizfwbA2qEEYnu3CDsDmjVnmc0qgEUg9CDv0rJbzmT5yHdZ9A1etujm_JjFQKjWdGgKKabWZETY64IWr15N4etCRU-er25Jsnx8zDiedoHesPgnH&uniplatform=NZKPT)。"
+
+[[items]]
+title = "信息处理方法、装置、设备、存储介质及计算机程序产品"
+subtitle = "尉志青、宋志群、冯志勇、昝佳琦、张平、刘浩田、刘立哲、王斌、张晋博、庞亚珊、张彦东"
+date = "2025年1月"
+content = "中国专利申请 CN202411924007.2。[专利链接](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0ZITc0V19vaIQwLSEyN9z45WGbdxcEgabIaMoUsv8keBn5oY2AJAWf2mJrU7pW1OWJADMZFZ_AmA3oKqqpw6B01VzuEluGfQs4oLTScoYwz3fzdH5gn8hywSN7F9RR6U2QozWGwcZ6sEzs5uSnQMVZY&uniplatform=NZKPT)。"
+
+[[items]]
+title = "目标感知方法、装置、感知设备、程序产品及介质"
+subtitle = "尉志青、冯志勇、王琳、张平、马丁友、张奇勋、刘浩田"
+date = "2025年11月"
+content = "中国专利申请 CN202511605489X。[专利链接](http://kns--cnki--net--https.cnki.mdjsf.utuvpn.utuedu.com:9000/kcms2/article/abstract?v=InrCKZ6Ohl7PelZxOsjJQ_y-v19-FlPUAGxO3kj_k80V_4TDkheUg5l4IOW05R0rlak_RoBXjr471Yhi0b6y5SoY08H62AtpjDRDhvTRXKkgzLgvPXu5LNhf10Frg_FzIoPCgx9IP4HNXVq9YSqqUgsuT_u6gcqNqVUs0IQp3dvtdDgErdfSRw==&uniplatform=NZKPT&language=CHS)。"

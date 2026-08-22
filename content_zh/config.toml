@@ -1,0 +1,52 @@
+[site]
+title = "刘浩田"
+description = "北京邮电大学博士研究生刘浩田的个人学术主页。"
+last_updated = "2026年8月21日"
+
+[author]
+name = "刘浩田"
+title = "博士研究生"
+institution = "北京邮电大学"
+
+[social]
+location = "中国，北京市海淀区"
+location_details = [
+  "北京邮电大学，",
+  "中国，北京市海淀区"
+]
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "教育经历"
+type = "page"
+target = "education"
+href = "/education"
+
+[[navigation]]
+title = "奖励"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "专利"
+type = "page"
+target = "patents"
+href = "/patents"
+
+[[navigation]]
+title = "学术服务"
+type = "page"
+target = "services"
+href = "/services"

@@ -1,0 +1,69 @@
+type = "card"
+title = "奖励"
+description = "以下奖项来自旧版个人学术网站。"
+count_text = "共 {count} 项"
+enable_level_filters = true
+level_filter_label = "奖项类型"
+all_levels_label = "全部"
+no_results_text = "没有符合该类型的奖项。"
+
+[[items]]
+title = "学术先锋奖（仅一人）"
+subtitle = "AICTech 2026"
+date = "2026年"
+level = "学会/会议级"
+
+[[items]]
+title = "最佳论文奖"
+subtitle = "AICTech 2026"
+date = "2026年"
+level = "学会/会议级"
+
+[[items]]
+title = "杰出贡献奖（最佳组织奖）"
+subtitle = "AICTech 2026 Workshop"
+date = "2026年"
+level = "学会/会议级"
+
+[[items]]
+title = "最佳论文奖"
+subtitle = "IEEE CCAI 2026"
+date = "2026年5月"
+level = "学会/会议级"
+
+[[items]]
+title = "北京邮电大学优秀研究生"
+subtitle = "北京邮电大学"
+date = "2025年11月"
+level = "校级"
+
+[[items]]
+title = "杰出贡献奖（最佳组织奖）"
+subtitle = "NCIC 2025 Workshop"
+date = "2025年10月"
+level = "学会/会议级"
+
+[[items]]
+title = "博士研究生国家奖学金"
+subtitle = "北京邮电大学"
+date = "2025年9月"
+level = "国家级"
+content = "博士二年级期间获得。"
+
+[[items]]
+title = "河南省优秀应届本科毕业生"
+subtitle = "河南理工大学"
+date = "2023年5月"
+level = "省级"
+
+[[items]]
+title = "本专科生国家奖学金"
+subtitle = "河南理工大学"
+date = "2021年12月"
+level = "国家级"
+
+[[items]]
+title = "河南省三好学生"
+subtitle = "河南理工大学"
+date = "2021年9月"
+level = "省级"

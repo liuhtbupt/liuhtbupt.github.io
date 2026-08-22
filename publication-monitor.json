@@ -1,0 +1,33 @@
+{
+  "author": {
+    "given": "Haotian",
+    "family": "Liu",
+    "orcid": "0009-0000-0980-0440",
+    "email": "haotian_liu@bupt.edu.cn"
+  },
+  "google_scholar_url": "https://scholar.google.com/citations?user=X1kpc84AAAAJ&hl=en",
+  "earliest_year": 2023,
+  "trusted_affiliations": [
+    "Beijing University of Posts and Telecommunications",
+    "BUPT"
+  ],
+  "trusted_coauthors": [
+    "Zhiqing Wei",
+    "Zhiyong Feng",
+    "Huici Wu",
+    "Yucong Du",
+    "Yixin Zhang",
+    "Xingwang Li",
+    "Qixun Zhang",
+    "Dingyou Ma",
+    "Furong Yang",
+    "Luyang Sun"
+  ],
+  "topic_keywords": [
+    "integrated sensing and communication",
+    "ISAC",
+    "cooperative sensing",
+    "wireless communication",
+    "signal processing"
+  ]
+}

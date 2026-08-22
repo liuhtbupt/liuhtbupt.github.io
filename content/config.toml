@@ -1,0 +1,80 @@
+[site]
+title = "Haotian Liu"
+description = "Academic homepage of Haotian Liu, Ph.D. candidate at Beijing University of Posts and Telecommunications."
+url = "https://liuhtbupt.github.io"
+favicon = "/favicon.svg"
+last_updated = "August 21, 2026"
+
+[author]
+name = "Haotian Liu"
+title = "Ph.D. Candidate"
+institution = "Beijing University of Posts and Telecommunications"
+avatar = "/liuhaotian.png"
+
+[social]
+email = "haotian_liu@bupt.edu.cn"
+location = "Haidian, Beijing, China"
+location_url = "https://maps.google.com/?q=Beijing+University+of+Posts+and+Telecommunications"
+location_details = [
+  "Beijing University of Posts and Telecommunications,",
+  "Haidian, Beijing, China"
+]
+google_scholar = "https://scholar.google.com/citations?user=X1kpc84AAAAJ&hl=en"
+orcid = "https://orcid.org/0009-0000-0980-0440"
+github = "https://github.com/liuhtbupt"
+academic_homepage = "https://www.scholat.com/haotianliubupt"
+arxiv = "https://arxiv.org/a/liu_h_11.html"
+researchgate = "https://www.researchgate.net/profile/Haotian-Liu-44"
+
+[features]
+enable_likes = true
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Education"
+type = "page"
+target = "education"
+href = "/education"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Patents"
+type = "page"
+target = "patents"
+href = "/patents"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"

@@ -1,0 +1,4 @@
+type = "publication"
+title = "论文"
+description = "期刊、杂志和会议论文。† 表示旧网站中记录的通讯作者。论文等级均需同时注明采用的年份和版本。"
+source = "publications.bib"

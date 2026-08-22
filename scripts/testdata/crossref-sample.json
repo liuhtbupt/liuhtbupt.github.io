@@ -1,0 +1,36 @@
+{
+  "message": {
+    "items": [
+      {
+        "DOI": "10.1109/TMC.2026.3697394",
+        "title": ["WCTNet-ISAC: A Two-Stage Scheme with CSI Enhancement and High-Precision Synchronization for Uplink ISAC Signal Processing"],
+        "author": [
+          { "given": "Haotian", "family": "Liu" },
+          { "given": "Zhiqing", "family": "Wei" }
+        ],
+        "container-title": ["IEEE Transactions on Mobile Computing"],
+        "published": { "date-parts": [[2026, 5]] }
+      },
+      {
+        "DOI": "10.9999/TEST.NEW.2027",
+        "title": ["A New Integrated Sensing and Communication Test Paper"],
+        "author": [
+          { "given": "Haotian", "family": "Liu", "ORCID": "https://orcid.org/0009-0000-0980-0440" },
+          { "given": "Zhiqing", "family": "Wei" }
+        ],
+        "container-title": ["Test Journal"],
+        "published": { "date-parts": [[2027, 1]] }
+      },
+      {
+        "DOI": "10.9999/UNRELATED.2027",
+        "title": ["An Unrelated Medical Study"],
+        "author": [
+          { "given": "Haotian", "family": "Liu" },
+          { "given": "Another", "family": "Author" }
+        ],
+        "container-title": ["Unrelated Journal"],
+        "published": { "date-parts": [[2027, 1]] }
+      }
+    ]
+  }
+}
