@@ -97,6 +97,17 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || (!isBadgeNote(note) ? note : '')),
       badges,
+      impactFactor: tags.impact_factor ? parseFloat(tags.impact_factor) : undefined,
+      impactFactorYear: tags.impact_factor_year ? parseInt(tags.impact_factor_year, 10) : undefined,
+      quartile: /^Q[1-4]$/i.test(tags.jcr_quartile || '')
+        ? tags.jcr_quartile.toUpperCase() as Publication['quartile']
+        : undefined,
+      jcrYear: tags.jcr_year ? parseInt(tags.jcr_year, 10) : undefined,
+      casZone: /^[1-4]$/.test(tags.cas_zone || '')
+        ? parseInt(tags.cas_zone, 10) as Publication['casZone']
+        : undefined,
+      casTop: tags.cas_top === 'true' || tags.cas_top === 'yes',
+      casYear: tags.cas_year ? parseInt(tags.cas_year, 10) : undefined,
       selected,
       selectedOrder: tags.selected_order ? parseInt(tags.selected_order, 10) : undefined,
       isFirstAuthor: Boolean(authors[0]?.isHighlighted),
@@ -105,7 +116,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'selected_order', 'student_first', 'publication_type', 'preview', 'description', 'keywords', 'code', 'badge', 'badges']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'selected_order', 'student_first', 'publication_type', 'preview', 'description', 'keywords', 'code', 'badge', 'badges', 'impact_factor', 'impact_factor_year', 'jcr_quartile', 'jcr_year', 'cas_zone', 'cas_top', 'cas_year']),
     };
 
     // Clean up undefined fields

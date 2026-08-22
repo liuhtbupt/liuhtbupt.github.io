@@ -42,7 +42,12 @@ export interface Publication {
   status: PublicationStatus;
   citations?: number;
   impactFactor?: number;
+  impactFactorYear?: number;
   quartile?: 'Q1' | 'Q2' | 'Q3' | 'Q4';
+  jcrYear?: number;
+  casZone?: 1 | 2 | 3 | 4;
+  casTop?: boolean;
+  casYear?: number;
   bibtex?: string;
   venue?: string;
   location?: string;

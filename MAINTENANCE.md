@@ -110,6 +110,13 @@ content = "我们的新论文被 **会议名称** 录用。"
   author = {Haotian Liu and Coauthor Name*},
   journal = {期刊名称},
   year = {2026},
+  cas_zone = {1},
+  cas_top = {true},
+  cas_year = {2025},
+  jcr_quartile = {Q1},
+  jcr_year = {2025},
+  impact_factor = {10.7},
+  impact_factor_year = {2025},
   month = aug,
   doi = {10.xxxx/xxxxx},
   url = {https://example.com/paper},
@@ -132,6 +139,12 @@ content = "我们的新论文被 **会议名称** 录用。"
 - `selected_order`：控制精选论文的显示顺序，数字越小越靠前。
 - `student_first = {true}`：把论文加入“学生一作”筛选；此字段只用于网站筛选，不会显示在复制出的 BibTeX 中。
 - `note = {Popular Paper}`：在论文卡片上显示“热门论文”标签；如果文章自发表以来持续入选热门文章，可写成 `note = {Popular Article since publication}`。多个其他标签也可以使用自定义字段 `badges = {标签一; 标签二}`，用英文分号分隔。
+
+- `cas_zone`、`cas_top`、`cas_year`：分别填写中科院大类分区、是否为 Top 期刊及采用的分区版本年份。
+- `jcr_quartile`、`jcr_year`：填写 JCR 分区及采用的版本年份，例如 `Q1` 和 `2025`。
+- `impact_factor`、`impact_factor_year`：填写影响因子及采用的版本年份。以上评价字段会显示在论文卡片右下角，但不会混入访客复制的标准 BibTeX。
+
+期刊评价指标不能只按期刊名称永久固定：同一期刊在不同年份可能升区或降区。新增论文时应按论文采用的评价版本逐项填写；不属于 SCI/JCR 的中文期刊、尚无 JIF 的杂志及会议论文不要强行填写这些字段。
 
 “第一作者”会根据作者列表中刘浩田是否排在第一位自动判断；“通信作者”会根据刘浩田姓名后的 `*` 自动判断。杂志类型会自动识别名称中带有 `Magazine` 的期刊，以及 `IEEE Wireless Communications`。
 

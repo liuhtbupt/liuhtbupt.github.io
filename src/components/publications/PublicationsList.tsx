@@ -15,6 +15,7 @@ import { Publication } from '@/types/publication';
 import { PublicationPageConfig } from '@/types/page';
 import { cn } from '@/lib/utils';
 import { useMessages } from '@/lib/i18n/useMessages';
+import { useLocaleStore } from '@/lib/stores/localeStore';
 import FormattedBibTeXText from './FormattedBibTeXText';
 
 interface PublicationsListProps {
@@ -26,6 +27,7 @@ interface PublicationsListProps {
 
 export default function PublicationsList({ config, publications, embedded = false, showControls = true }: PublicationsListProps) {
     const messages = useMessages();
+    const locale = useLocaleStore((state) => state.locale);
     const [searchQuery, setSearchQuery] = useState('');
     const [selectedYear, setSelectedYear] = useState<number | 'all'>('all');
     const [selectedType, setSelectedType] = useState<string | 'all'>('all');
@@ -366,6 +368,26 @@ export default function PublicationsList({ config, publications, embedded = fals
                                             </button>
                                         )}
                                     </div>
+
+                                    {(pub.casZone || pub.quartile || pub.impactFactor !== undefined) && (
+                                        <div className="mt-3 ml-auto flex flex-wrap justify-end gap-2" aria-label="Journal metrics">
+                                            {pub.casZone && pub.casYear && (
+                                                <span className="rounded-full border border-accent/20 bg-accent/10 px-2.5 py-1 text-xs font-semibold text-accent-dark dark:text-accent-light">
+                                                    {locale === 'zh' ? '中科院' : 'CAS'} {pub.casZone} {locale === 'zh' ? '区' : 'Zone'}{pub.casTop ? ' Top' : ''}（{pub.casYear}{locale === 'zh' ? '版' : ''}）
+                                                </span>
+                                            )}
+                                            {pub.quartile && pub.jcrYear && (
+                                                <span className="rounded-full border border-accent/20 bg-accent/10 px-2.5 py-1 text-xs font-semibold text-accent-dark dark:text-accent-light">
+                                                    JCR {pub.quartile}（{pub.jcrYear}）
+                                                </span>
+                                            )}
+                                            {pub.impactFactor !== undefined && pub.impactFactorYear && (
+                                                <span className="rounded-full border border-accent/20 bg-accent/10 px-2.5 py-1 text-xs font-semibold text-accent-dark dark:text-accent-light">
+                                                    IF {pub.impactFactor}（{pub.impactFactorYear}）
+                                                </span>
+                                            )}
+                                        </div>
+                                    )}
 
                                     <AnimatePresence>
                                         {expandedAbstractId === pub.id ? (
