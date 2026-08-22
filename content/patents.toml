@@ -1,7 +1,7 @@
 type = "card"
 title = "Patents"
 sort_by_date = true
-description = "Patent applications listed on the previous academic website. Status should be verified before describing these as granted patents."
+description = "Patent applications and related status information."
 enable_author_filters = true
 highlight_name = "Haotian Liu"
 author_filter_label = "Author role"

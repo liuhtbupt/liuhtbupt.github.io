@@ -1,4 +1,4 @@
 type = "publication"
 title = "Publications"
-description = "Journal, magazine, and conference publications. An asterisk (*) denotes a corresponding author where recorded on the previous website."
+description = "Journal, magazine, and conference publications. An asterisk (*) denotes a corresponding author."
 source = "publications.bib"

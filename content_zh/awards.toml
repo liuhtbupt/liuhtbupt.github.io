@@ -1,6 +1,6 @@
 type = "card"
 title = "奖励"
-description = "以下奖项来自旧版个人学术网站。"
+description = "主要奖励与荣誉。"
 count_text = "共 {count} 项"
 enable_level_filters = true
 level_filter_label = "奖项类型"

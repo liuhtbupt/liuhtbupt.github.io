@@ -1,6 +1,6 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards listed on the previous academic website."
+description = "Selected honors and awards."
 count_text = "Total: {count}"
 enable_level_filters = true
 level_filter_label = "Award type"

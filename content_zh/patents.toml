@@ -1,7 +1,7 @@
 type = "card"
 title = "专利"
 sort_by_date = true
-description = "旧版个人网站列出的专利申请。在确认授权状态前，暂不统一表述为授权专利。"
+description = "专利申请及相关状态信息。"
 count_text = "共 {count} 项"
 enable_author_filters = true
 highlight_name = "刘浩田"
