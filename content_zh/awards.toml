@@ -32,12 +32,6 @@ date = "2026年5月"
 level = "学会/会议级"
 
 [[items]]
-title = "北京邮电大学优秀研究生"
-subtitle = "北京邮电大学"
-date = "2025年11月"
-level = "校级"
-
-[[items]]
 title = "杰出贡献奖（最佳组织奖）"
 subtitle = "NCIC 2025 Workshop"
 date = "2025年10月"
