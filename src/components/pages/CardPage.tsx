@@ -71,13 +71,12 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                 .split(/[、,]/)
                 .map((name) => name.trim())
                 .filter(Boolean);
-            const includesHighlightedAuthor = authors.includes(config.highlight_name || '');
             const matchesAuthor =
                 !config.enable_author_filters ||
                 !config.highlight_name ||
                 authorFilter === 'all' ||
-                (authorFilter === 'student' && includesHighlightedAuthor) ||
-                (authorFilter === 'first' && authors[0] === config.highlight_name);
+                (authorFilter === 'student' && item.student_first === true) ||
+                (authorFilter === 'first' && (item.first_author === true || authors[0] === config.highlight_name));
             const matchesLevel =
                 !config.enable_level_filters ||
                 levelFilter === 'all' ||

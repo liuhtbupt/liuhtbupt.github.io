@@ -23,6 +23,8 @@ export interface CardItem {
     tags?: string[];
     link?: string;
     image?: string;
+    student_first?: boolean;
+    first_author?: boolean;
 }
 
 export interface CardPageConfig extends BasePageConfig {

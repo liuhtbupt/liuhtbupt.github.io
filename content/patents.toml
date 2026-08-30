@@ -6,7 +6,7 @@ enable_author_filters = true
 highlight_name = "Haotian Liu"
 author_filter_label = "Author role"
 all_authors_label = "All"
-student_author_label = "Student Author"
+student_author_label = "Student First Author"
 first_author_label = "First Author"
 no_results_text = "No patents match this author role."
 count_text = "Total: {count}"
@@ -27,30 +27,35 @@ content = "China patent application CN2026111351038."
 title = "Method, apparatus, and storage medium for signal processing in an uplink integrated sensing and communication system"
 subtitle = "Zhiqing Wei, Zhiyong Feng, Haotian Liu, Ping Zhang, Yucong Du, Lin Wang"
 date = "March 18, 2026"
+student_first = true
 content = "China patent application 2026103311363. Applicant: Beijing University of Posts and Telecommunications."
 
 [[items]]
 title = "Sensing signal processing methods, devices, equipment, storage media and program products"
 subtitle = "Zhiyong Feng, Zhiqing Wei, Haotian Liu, Ping Zhang, Luyang Sun, Ruizhong Xu"
 date = "July 2025"
+student_first = true
 content = "China patent application CN202510881921.1. [Patent link](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui)."
 
 [[items]]
 title = "Signal processing methods, devices, storage media for network equipment and computer program products"
 subtitle = "Zhiqing Wei, Zhiyong Feng, Haotian Liu, Ping Zhang, Zaodi Song"
 date = "May 2024"
+student_first = true
 content = "China patent application CN202410608339.3. [Patent link](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0a8rFtZVV-7g5wgoqqAZAeTlpSYOf5EGjx9ENSj0eBZqsxkVNP29ovx76_iRlGvYhxz2GdLr-93-WzSeJ1zKc_1In76Gx-E1Q9fs5RshiBEZZwkBdA_OfXXKa9tKYDoyYL96q6UPkMwtd7h0w0_M6mU&uniplatform=NZKPT)."
 
 [[items]]
 title = "Multipoint cooperative passive sensing method, device, receiving node and medium"
 subtitle = "Zhiyong Feng, Zhiqing Wei, Haotian Liu, Ping Zhang, Kaifeng Han, Wangjun Jiang"
 date = "May 2024"
+student_first = true
 content = "China patent application CN202410593729.8. [Patent link](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0ZRiiUhFblXczgRk8qp9SxHfTBPf8ukTFtvBsOAPB1bN5Ot2p9Kj8aswO3r-vUJ3G_3PcfGcQc6qFXa_RYYR6RsjWpP_CsbByU-ATJh1jtlHjX8GwM3UfrbpBiCkT04ft11ja1g8qR6gkK52ZYA7BTl&uniplatform=NZKPT)."
 
 [[items]]
 title = "An object perception method, device, sensing device, program product and medium"
 subtitle = "Zhiqing Wei, Zhiqun Song, Zhiyong Feng, Haotian Liu, Ping Zhang, Xiyang Wang, Jinbo Zhang, Yashan Pang, Tingdong Zhang, Lizhe Liu, Bin Wang"
 date = "January 2025"
+student_first = true
 content = "China patent application CN202411954508.5. [Patent link](https://kns.cnki.net/kcms2/article/abstract?v=YNWfVykhE0YaXUmvtoCtfIsFISIK72cV4SWTCiPE-idkDr2jVvFy6bjPwxFtbeqc-xgv74MyCYqx2ZPgEgYryEoE9lZsyXY2iQIu20EM5qxpTW2OVodrCZlr8NTByECBUgK5mmg0JoGd3AyLi6vREclTbO2rmQ1F&uniplatform=NZKPT)."
 
 [[items]]
