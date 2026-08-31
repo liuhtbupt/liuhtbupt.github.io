@@ -369,10 +369,23 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         )}
                                     </div>
 
-                                    {(pub.casZone || pub.quartile || pub.impactFactor !== undefined) && (
-                                        <div className="mt-3 ml-auto flex flex-wrap justify-end gap-2" aria-label="Journal metrics">
+                                    {(pub.citations !== undefined || pub.casZone || pub.quartile || pub.impactFactor !== undefined) && (
+                                        <div className="mt-3 ml-auto flex flex-wrap justify-end gap-2" aria-label="Publication metrics">
+                                            {pub.citations !== undefined && (
+                                                <span
+                                                    className="rounded-full border border-sky-200 bg-sky-50 px-2.5 py-1 text-xs font-semibold text-sky-700 dark:border-sky-900/70 dark:bg-sky-950/40 dark:text-sky-300"
+                                                    title="Google Scholar"
+                                                >
+                                                    {messages.publications.citations.replace('{count}', String(pub.citations))}
+                                                </span>
+                                            )}
                                             {pub.casZone && pub.casYear && (
-                                                <span className="rounded-full border border-accent/20 bg-accent/10 px-2.5 py-1 text-xs font-semibold text-accent-dark dark:text-accent-light">
+                                                <span className={cn(
+                                                    "rounded-full border px-2.5 py-1 text-xs font-semibold",
+                                                    pub.casZone === 1
+                                                        ? "border-red-200 bg-red-50 text-red-700 dark:border-red-900/70 dark:bg-red-950/40 dark:text-red-300"
+                                                        : "border-accent/20 bg-accent/10 text-accent-dark dark:text-accent-light"
+                                                )}>
                                                     {locale === 'zh' ? '中科院' : 'CAS'} {pub.casZone} {locale === 'zh' ? '区' : 'Zone'}{pub.casTop ? ' Top' : ''}（{pub.casYear}{locale === 'zh' ? '版' : ''}）
                                                 </span>
                                             )}

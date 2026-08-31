@@ -97,6 +97,9 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || (!isBadgeNote(note) ? note : '')),
       badges,
+      citations: tags.citations !== undefined && /^\d+$/.test(tags.citations.trim())
+        ? parseInt(tags.citations, 10)
+        : undefined,
       impactFactor: tags.impact_factor ? parseFloat(tags.impact_factor) : undefined,
       impactFactorYear: tags.impact_factor_year ? parseInt(tags.impact_factor_year, 10) : undefined,
       quartile: /^Q[1-4]$/i.test(tags.jcr_quartile || '')
@@ -116,7 +119,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'selected_order', 'student_first', 'publication_type', 'preview', 'description', 'keywords', 'code', 'badge', 'badges', 'impact_factor', 'impact_factor_year', 'jcr_quartile', 'jcr_year', 'cas_zone', 'cas_top', 'cas_year']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'selected_order', 'student_first', 'publication_type', 'preview', 'description', 'keywords', 'code', 'badge', 'badges', 'citations', 'impact_factor', 'impact_factor_year', 'jcr_quartile', 'jcr_year', 'cas_zone', 'cas_top', 'cas_year']),
     };
 
     // Clean up undefined fields

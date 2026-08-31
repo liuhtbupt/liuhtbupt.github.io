@@ -50,6 +50,7 @@ export interface LocaleMessages {
     bibtex: string;
     code: string;
     total: string;
+    citations: string;
     popularPaper: string;
     popularArticleSincePublication: string;
     bestPaperAward: string;
@@ -124,6 +125,7 @@ const en: LocaleMessages = {
     bibtex: 'BibTeX',
     code: 'Code',
     total: 'Total: {count}',
+    citations: 'Citations: {count}',
     popularPaper: 'Popular Paper',
     popularArticleSincePublication: 'Popular Article since publication',
     bestPaperAward: 'Best Paper Award',
@@ -198,6 +200,7 @@ const zh: LocaleMessages = {
     bibtex: 'BibTeX',
     code: '代码',
     total: '共 {count} 篇',
+    citations: '引用 {count} 次',
     popularPaper: '热门论文',
     popularArticleSincePublication: '发表以来持续入选热门文章',
     bestPaperAward: '最佳论文奖',

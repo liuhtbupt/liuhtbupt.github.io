@@ -139,6 +139,7 @@ content = "我们的新论文被 **会议名称** 录用。"
 - `selected_order`：控制精选论文的显示顺序，数字越小越靠前。
 - `student_first = {true}`：把论文加入“学生一作”筛选；此字段只用于网站筛选，不会显示在复制出的 BibTeX 中。
 - `note = {Popular Paper}`：在论文卡片上显示“热门论文”标签；如果文章自发表以来持续入选热门文章，可写成 `note = {Popular Article since publication}`。多个其他标签也可以使用自定义字段 `badges = {标签一; 标签二}`，用英文分号分隔。
+- `citations = {12}`：显示该论文在 Google Scholar 中的引用次数；未被引用时填写 `0`。引用数会持续变化，应以本人 Google Scholar 主页为准定期更新。此字段不会混入访客复制的标准 BibTeX。
 
 - `cas_zone`、`cas_top`、`cas_year`：分别填写中科院大类分区、是否为 Top 期刊及采用的分区版本年份。
 - `jcr_quartile`、`jcr_year`：填写 JCR 分区及采用的版本年份，例如 `Q1` 和 `2025`。
