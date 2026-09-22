@@ -56,3 +56,6 @@ npm run build
 | 26 | `wang2025factory.pdf` | ISAC 3D Imaging in Smart Factories Assisted by Multipath Components |
 | 27 | `zheng2025urban.pdf` | ISAC 3D Imaging in Urban Environments: A Joint Active and Passive Sensing Approach |
 | 28 | `chen2026adaptive.pdf` | Adaptive Resource Management for Multi-AGV Integrated Sensing, Communication, and Control Systems |
+| 29 | `liu2026dmsnet.pdf` | DMSNet: Cross-Band Learning for Multi-Target Sensing in Dual-Band ISAC |
+| 30 | `wei2026hardware.pdf` | A Hardware Prototype of Integrated Sensing, Communication and Control Enabled Intelligent Machine Network |
+| 31 | `liu2026beyondsingleband.pdf` | Beyond Single-Band: Analysis and Resource Allocation for Multi-Band ISAC Systems |
