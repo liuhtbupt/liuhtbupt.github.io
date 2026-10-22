@@ -8,6 +8,13 @@ all_levels_label = "All"
 no_results_text = "No awards match this type."
 
 [[items]]
+title = "CAST Young Science and Technology Talent Cultivation Project — Doctoral Student Special Program"
+subtitle = "China Association for Science and Technology (CAST)"
+date = "October 2026"
+level = "National"
+content = "Selected for the 2026 cohort."
+
+[[items]]
 title = "Academic Pioneer Award (Sole Recipient)"
 subtitle = "AICTech 2026"
 date = "August 2026"

@@ -8,6 +8,13 @@ all_levels_label = "全部"
 no_results_text = "没有符合该类型的奖项。"
 
 [[items]]
+title = "中国科协青年科技人才培育工程博士生专项计划"
+subtitle = "中国科学技术协会"
+date = "2026年10月"
+level = "国家级"
+content = "2026年度入选者。"
+
+[[items]]
 title = "学术先锋奖（仅一人）"
 subtitle = "AICTech 2026"
 date = "2026年8月"
