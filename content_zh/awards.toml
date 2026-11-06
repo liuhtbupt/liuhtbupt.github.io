@@ -8,6 +8,13 @@ all_levels_label = "全部"
 no_results_text = "没有符合该类型的奖项。"
 
 [[items]]
+title = "博士研究生国家奖学金"
+subtitle = "北京邮电大学"
+date = "2026年11月"
+level = "国家级"
+content = "连续第二年获得。"
+
+[[items]]
 title = "中国科协青年科技人才培育工程博士生专项计划"
 subtitle = "中国科学技术协会"
 date = "2026年10月"
