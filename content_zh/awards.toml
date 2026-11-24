@@ -8,7 +8,7 @@ all_levels_label = "全部"
 no_results_text = "没有符合该类型的奖项。"
 
 [[items]]
-title = "墙报激励计划入选墙报"
+title = "入选墙报激励计划"
 subtitle = "第28届中国电子学会青年年会"
 date = "2026年11月"
 level = "学会/会议级"
