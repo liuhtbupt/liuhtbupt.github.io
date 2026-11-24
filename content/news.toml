@@ -1,4 +1,10 @@
 [[news]]
+date = "2026-11"
+content = "Presented a poster at the 28th Chinese Institute of Electronics Youth Annual Conference. The poster, based on our IEEE TWC paper **Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing**, was selected for the Poster Incentive Program."
+image = "/news/cie-youth-annual-conference-2026-poster-incentive-certificate.jpg"
+image_alt = "Poster Incentive Program certificate from the 28th Chinese Institute of Electronics Youth Annual Conference"
+
+[[news]]
 date = "2026-11-05"
 content = "Our IEEE TWC paper **Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing** was featured in an in-depth report by the public media account [优途导航](https://mp.weixin.qq.com/s/0u6Ofacqnjjwnlkrk-6hgQ)."
 

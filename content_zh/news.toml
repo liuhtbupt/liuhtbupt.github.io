@@ -1,4 +1,10 @@
 [[news]]
+date = "2026-11"
+content = "参加第28届中国电子学会青年年会墙报交流，基于 IEEE TWC 论文 **Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing** 的墙报入选墙报激励计划。"
+image = "/news/cie-youth-annual-conference-2026-poster-incentive-certificate.jpg"
+image_alt = "第28届中国电子学会青年年会墙报激励计划证书"
+
+[[news]]
 date = "2026-11-05"
 content = "我们的 IEEE TWC 论文 **Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing** 获公众号 [优途导航](https://mp.weixin.qq.com/s/0u6Ofacqnjjwnlkrk-6hgQ) 专题报道。"
 

@@ -8,6 +8,13 @@ all_levels_label = "全部"
 no_results_text = "没有符合该类型的奖项。"
 
 [[items]]
+title = "墙报激励计划入选墙报"
+subtitle = "第28届中国电子学会青年年会"
+date = "2026年11月"
+level = "学会/会议级"
+content = "墙报内容为 IEEE TWC 论文 Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing。"
+
+[[items]]
 title = "博士研究生国家奖学金"
 subtitle = "北京邮电大学"
 date = "2026年11月"

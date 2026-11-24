@@ -8,6 +8,13 @@ all_levels_label = "All"
 no_results_text = "No awards match this type."
 
 [[items]]
+title = "Poster Selected for the Poster Incentive Program"
+subtitle = "28th Chinese Institute of Electronics Youth Annual Conference"
+date = "November 2026"
+level = "Society / Conference"
+content = "The poster was based on the IEEE TWC paper Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing."
+
+[[items]]
 title = "National Doctoral Scholarship"
 subtitle = "Beijing University of Posts and Telecommunications"
 date = "November 2026"

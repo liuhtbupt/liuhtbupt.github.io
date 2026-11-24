@@ -55,13 +55,13 @@ export default function News({ items, title }: NewsProps) {
                                     href={item.image}
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="mt-3 block w-full max-w-xl overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm transition-shadow hover:shadow-md dark:border-neutral-800"
+                                    className="mt-3 inline-block max-w-full overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm transition-shadow hover:shadow-md dark:border-neutral-800"
                                 >
                                     {/* eslint-disable-next-line @next/next/no-img-element */}
                                     <img
                                         src={item.image}
                                         alt={item.image_alt || ''}
-                                        className="h-auto w-full object-contain"
+                                        className="max-h-[32rem] w-auto max-w-full object-contain"
                                         loading="lazy"
                                     />
                                 </a>
