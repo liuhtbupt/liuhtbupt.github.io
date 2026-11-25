@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-11-24"
+content = "我们的 IEEE TMC 论文 **WCTNet-ISAC: A Two-Stage Scheme With CSI Enhancement and High-Precision Synchronization for Uplink ISAC Signal Processing** 获微信公众号 [PHY Insight](https://mp.weixin.qq.com/s?__biz=Mzk5MDU0NzkwNw==&mid=2247484898&idx=1&sn=d13935175069bf52aba1c6f071cb024a) 专题报道。"
+
+[[news]]
 date = "2026-11"
 content = "参加第28届中国电子学会青年年会墙报交流，基于 IEEE TWC 论文 **Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing** 的墙报入选墙报激励计划（89 份墙报中遴选 20 份，入选率约 22.5%）。"
 image = "/news/cie-youth-annual-conference-2026-poster-incentive-certificate.jpg"

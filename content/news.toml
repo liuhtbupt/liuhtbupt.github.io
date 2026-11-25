@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-11-24"
+content = "Our IEEE Transactions on Mobile Computing paper **WCTNet-ISAC: A Two-Stage Scheme With CSI Enhancement and High-Precision Synchronization for Uplink ISAC Signal Processing** was featured by the WeChat public account [PHY Insight](https://mp.weixin.qq.com/s?__biz=Mzk5MDU0NzkwNw==&mid=2247484898&idx=1&sn=d13935175069bf52aba1c6f071cb024a)."
+
+[[news]]
 date = "2026-11"
 content = "Presented a poster at the 28th Chinese Institute of Electronics Youth Annual Conference. The poster, based on our IEEE TWC paper **Cooperative Sensing in Cell-Free Massive MIMO ISAC Systems: Performance Optimization and Signal Processing**, was selected for the Poster Incentive Program (20 of 89 posters, approximately 22.5%)."
 image = "/news/cie-youth-annual-conference-2026-poster-incentive-certificate.jpg"
